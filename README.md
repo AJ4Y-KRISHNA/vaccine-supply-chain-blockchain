@@ -1,63 +1,169 @@
-# Vaccine Supply Chain Tracking System
+# 💉 Vaccine Supply Chain Tracking System (Blockchain + AI)
 
-## Overview
-This project implements a blockchain-based vaccine supply chain management system. It ensures transparency, traceability, and security of vaccine distribution.
+## 📌 Project Overview
 
-## Technologies Used
-- Python
-- Streamlit
-- Solidity
-- Ethereum (Hardhat)
-- Web3.py
-- Pandas
-- Machine Learning (Sentiment Analysis)
+This project implements a **Blockchain-based Vaccine Supply Chain Management System** that ensures transparency, traceability, and security in vaccine distribution.
 
-## Features
-- Vaccine Batch Registration
-- Batch Transfer Tracking
-- Real-Time Supply Chain Monitoring
-- Blockchain Transaction Storage
-- Analytics Dashboard
-- Sentiment Analysis
+The system integrates **Blockchain, Data Analytics, and Artificial Intelligence** to monitor vaccine movement from **manufacturer → distributor → healthcare centers**.
 
-## Project Architecture
+It also includes **AI-based demand forecasting and sentiment analysis** to help healthcare authorities make better decisions.
 
-User Interface (Streamlit)
+---
+
+# 🚀 Technologies Used
+
+| Technology        | Purpose                       |
+| ----------------- | ----------------------------- |
+| Python            | Backend logic                 |
+| Streamlit         | Web Dashboard UI              |
+| Solidity          | Smart contract                |
+| Hardhat           | Local Ethereum blockchain     |
+| Web3.py           | Python–Blockchain integration |
+| Pandas            | Data analytics                |
+| Transformers / ML | Sentiment analysis            |
+| CSS               | UI styling                    |
+
+---
+
+# 🏗 System Architecture
+
+```
+Streamlit Dashboard
         ↓
 Python Backend
         ↓
-Web3 Blockchain Interface
+Web3 Connector
         ↓
 Ethereum Smart Contract
         ↓
-Hardhat Blockchain Network
+Hardhat Local Blockchain
+```
 
-## How to Run
+---
 
-Start blockchain:
+# 📦 Project Modules
+
+## 1️⃣ Dashboard
+
+Main control panel showing system metrics and blockchain actions.
+
+Features:
+
+* Batch registration
+* Batch transfer
+* Transaction monitoring
+* System statistics
+
+---
+
+## 2️⃣ Vaccine Batch Registration
+
+Registers vaccine batches on blockchain.
+
+Stored Data:
+
+* Batch ID
+* Vaccine Name
+* Manufacturer
+* Current Holder
+
+---
+
+## 3️⃣ Vaccine Transfer Tracking
+
+Tracks movement of vaccine batches across supply chain participants.
+
+Example flow:
+
+```
+Manufacturer → Distributor → Hospital
+```
+
+---
+
+## 4️⃣ Real-Time Tracking
+
+Users can verify batch details stored on blockchain.
+
+Displayed data:
+
+* Batch ID
+* Vaccine
+* Manufacturer
+* Current holder
+
+---
+
+## 5️⃣ Blockchain Analytics
+
+Interactive charts showing supply chain distribution statistics.
+
+Technologies:
+
+* Pandas
+* Streamlit charts
+
+---
+
+## 6️⃣ Sentiment Analysis
+
+AI module that analyzes public opinion regarding vaccines.
+
+Output categories:
+
+* Positive
+* Negative
+* Neutral
+
+---
+
+# ⚙️ How to Run the Project
+
+### 1️⃣ Start Blockchain
+
+```
+cd blockchain-backend
 npx hardhat node
+```
 
+---
 
-Deploy contract:
+### 2️⃣ Deploy Smart Contract
 
-
+```
 npx hardhat run scripts/deploy.js --network localhost
+```
 
+---
 
-Run web app:
+### 3️⃣ Run Dashboard
 
-
+```
 streamlit run app.py
+```
 
+---
 
-🔟 Verify Upload
+# 📊 Features
 
-Open your repository and confirm these folders exist:
+✔ Blockchain-based vaccine tracking
+✔ Transparent supply chain monitoring
+✔ Real-time batch verification
+✔ Data analytics dashboard
+✔ AI sentiment analysis
 
-app.py
-pages/
-styles/
-blockchain-backend/
-ethereum_connector.py
-sentiment_module.py
-forecasting.py
+---
+
+# 🎯 Future Improvements
+
+* QR code verification for vaccine batches
+* IoT-based cold chain monitoring
+* Cloud blockchain deployment
+* Role-based authentication
+
+---
+
+# 👨‍💻 Author
+
+Aj4yKrishna
+Blockchain + AI Based Vaccine Supply Chain System
