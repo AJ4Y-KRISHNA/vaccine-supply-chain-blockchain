@@ -1,0 +1,1826 @@
+date,vaccine_name,batch_id,manufacturer,location,demand,supply,stock
+2024-01-01,Covishield,COV-000,Serum Institute,Delhi,249,273,268
+2024-01-02,Covishield,COV-001,Serum Institute,Tamil Nadu,255,269,223
+2024-01-03,Covishield,COV-002,Serum Institute,Maharashtra,282,278,269
+2024-01-04,Covishield,COV-003,Serum Institute,Kerala,269,295,261
+2024-01-05,Covishield,COV-004,Serum Institute,Tamil Nadu,274,265,246
+2024-01-06,Covishield,COV-005,Serum Institute,Tamil Nadu,245,270,220
+2024-01-07,Covishield,COV-006,Serum Institute,Delhi,254,241,206
+2024-01-08,Covishield,COV-007,Serum Institute,Maharashtra,288,278,266
+2024-01-09,Covishield,COV-008,Serum Institute,Kerala,308,311,264
+2024-01-10,Covishield,COV-009,Serum Institute,Kerala,307,298,289
+2024-01-11,Covishield,COV-010,Serum Institute,Karnataka,284,264,237
+2024-01-12,Covishield,COV-011,Serum Institute,Kerala,275,301,293
+2024-01-13,Covishield,COV-012,Serum Institute,Karnataka,257,264,250
+2024-01-14,Covishield,COV-013,Serum Institute,Karnataka,220,227,218
+2024-01-15,Covishield,COV-014,Serum Institute,Kerala,257,268,221
+2024-01-16,Covishield,COV-015,Serum Institute,Karnataka,274,258,208
+2024-01-17,Covishield,COV-016,Serum Institute,Karnataka,258,247,230
+2024-01-18,Covishield,COV-017,Serum Institute,Delhi,250,273,256
+2024-01-19,Covishield,COV-018,Serum Institute,Maharashtra,202,228,182
+2024-01-20,Covishield,COV-019,Serum Institute,Tamil Nadu,208,197,158
+2024-01-21,Covishield,COV-020,Serum Institute,Delhi,213,220,207
+2024-01-22,Covishield,COV-021,Serum Institute,Delhi,233,223,180
+2024-01-23,Covishield,COV-022,Serum Institute,Delhi,240,232,196
+2024-01-24,Covishield,COV-023,Serum Institute,Maharashtra,227,237,187
+2024-01-25,Covishield,COV-024,Serum Institute,Tamil Nadu,221,227,221
+2024-01-26,Covishield,COV-025,Serum Institute,Maharashtra,221,221,217
+2024-01-27,Covishield,COV-026,Serum Institute,Kerala,211,240,195
+2024-01-28,Covishield,COV-027,Serum Institute,Kerala,203,231,190
+2024-01-29,Covishield,COV-028,Serum Institute,Tamil Nadu,229,226,225
+2024-01-30,Covishield,COV-029,Serum Institute,Karnataka,260,288,260
+2024-01-31,Covishield,COV-030,Serum Institute,Tamil Nadu,284,310,298
+2024-02-01,Covishield,COV-031,Serum Institute,Karnataka,285,300,273
+2024-02-02,Covishield,COV-032,Serum Institute,Maharashtra,255,246,203
+2024-02-03,Covishield,COV-033,Serum Institute,Maharashtra,263,292,269
+2024-02-04,Covishield,COV-034,Serum Institute,Tamil Nadu,276,280,239
+2024-02-05,Covishield,COV-035,Serum Institute,Delhi,293,309,274
+2024-02-06,Covishield,COV-036,Serum Institute,Tamil Nadu,303,322,274
+2024-02-07,Covishield,COV-037,Serum Institute,Tamil Nadu,296,304,284
+2024-02-08,Covishield,COV-038,Serum Institute,Karnataka,290,311,273
+2024-02-09,Covishield,COV-039,Serum Institute,Kerala,276,300,257
+2024-02-10,Covishield,COV-040,Serum Institute,Delhi,251,271,254
+2024-02-11,Covishield,COV-041,Serum Institute,Delhi,259,241,221
+2024-02-12,Covishield,COV-042,Serum Institute,Tamil Nadu,274,254,208
+2024-02-13,Covishield,COV-043,Serum Institute,Delhi,279,259,236
+2024-02-14,Covishield,COV-044,Serum Institute,Kerala,285,286,237
+2024-02-15,Covishield,COV-045,Serum Institute,Karnataka,255,265,245
+2024-02-16,Covishield,COV-046,Serum Institute,Tamil Nadu,239,261,260
+2024-02-17,Covishield,COV-047,Serum Institute,Kerala,214,218,217
+2024-02-18,Covishield,COV-048,Serum Institute,Tamil Nadu,215,242,235
+2024-02-19,Covishield,COV-049,Serum Institute,Delhi,230,229,193
+2024-02-20,Covishield,COV-050,Serum Institute,Tamil Nadu,257,285,262
+2024-02-21,Covishield,COV-051,Serum Institute,Delhi,222,238,221
+2024-02-22,Covishield,COV-052,Serum Institute,Tamil Nadu,211,204,195
+2024-02-23,Covishield,COV-053,Serum Institute,Delhi,213,243,236
+2024-02-24,Covishield,COV-054,Serum Institute,Karnataka,203,194,184
+2024-02-25,Covishield,COV-055,Serum Institute,Tamil Nadu,211,204,197
+2024-02-26,Covishield,COV-056,Serum Institute,Tamil Nadu,216,223,223
+2024-02-27,Covishield,COV-057,Serum Institute,Karnataka,241,267,224
+2024-02-28,Covishield,COV-058,Serum Institute,Delhi,265,273,249
+2024-02-29,Covishield,COV-059,Serum Institute,Tamil Nadu,282,272,271
+2024-03-01,Covishield,COV-060,Serum Institute,Kerala,254,276,247
+2024-03-02,Covishield,COV-061,Serum Institute,Maharashtra,224,222,189
+2024-03-03,Covishield,COV-062,Serum Institute,Delhi,255,280,280
+2024-03-04,Covishield,COV-063,Serum Institute,Maharashtra,282,312,306
+2024-03-05,Covishield,COV-064,Serum Institute,Delhi,304,314,306
+2024-03-06,Covishield,COV-065,Serum Institute,Tamil Nadu,296,324,309
+2024-03-07,Covishield,COV-066,Serum Institute,Delhi,304,330,283
+2024-03-08,Covishield,COV-067,Serum Institute,Tamil Nadu,292,317,305
+2024-03-09,Covishield,COV-068,Serum Institute,Karnataka,268,261,213
+2024-03-10,Covishield,COV-069,Serum Institute,Tamil Nadu,270,269,265
+2024-03-11,Covishield,COV-070,Serum Institute,Tamil Nadu,312,327,325
+2024-03-12,Covishield,COV-071,Serum Institute,Karnataka,278,274,245
+2024-03-13,Covishield,COV-072,Serum Institute,Karnataka,299,318,293
+2024-03-14,Covishield,COV-073,Serum Institute,Maharashtra,269,277,271
+2024-03-15,Covishield,COV-074,Serum Institute,Maharashtra,252,268,249
+2024-03-16,Covishield,COV-075,Serum Institute,Maharashtra,228,232,202
+2024-03-17,Covishield,COV-076,Serum Institute,Karnataka,220,204,170
+2024-03-18,Covishield,COV-077,Serum Institute,Tamil Nadu,233,263,248
+2024-03-19,Covishield,COV-078,Serum Institute,Delhi,248,230,219
+2024-03-20,Covishield,COV-079,Serum Institute,Karnataka,269,272,243
+2024-03-21,Covishield,COV-080,Serum Institute,Karnataka,259,269,242
+2024-03-22,Covishield,COV-081,Serum Institute,Maharashtra,230,232,192
+2024-03-23,Covishield,COV-082,Serum Institute,Kerala,224,232,188
+2024-03-24,Covishield,COV-083,Serum Institute,Tamil Nadu,209,194,168
+2024-03-25,Covishield,COV-084,Serum Institute,Tamil Nadu,244,233,183
+2024-03-26,Covishield,COV-085,Serum Institute,Karnataka,245,243,193
+2024-03-27,Covishield,COV-086,Serum Institute,Karnataka,268,257,252
+2024-03-28,Covishield,COV-087,Serum Institute,Tamil Nadu,233,255,245
+2024-03-29,Covishield,COV-088,Serum Institute,Delhi,242,237,198
+2024-03-30,Covishield,COV-089,Serum Institute,Maharashtra,247,235,203
+2024-03-31,Covishield,COV-090,Serum Institute,Delhi,255,253,211
+2024-04-01,Covishield,COV-091,Serum Institute,Tamil Nadu,264,259,225
+2024-04-02,Covishield,COV-092,Serum Institute,Delhi,284,284,256
+2024-04-03,Covishield,COV-093,Serum Institute,Kerala,293,280,262
+2024-04-04,Covishield,COV-094,Serum Institute,Kerala,278,297,280
+2024-04-05,Covishield,COV-095,Serum Institute,Maharashtra,273,299,265
+2024-04-06,Covishield,COV-096,Serum Institute,Delhi,265,293,265
+2024-04-07,Covishield,COV-097,Serum Institute,Delhi,285,278,238
+2024-04-08,Covishield,COV-098,Serum Institute,Maharashtra,289,278,260
+2024-04-09,Covishield,COV-099,Serum Institute,Tamil Nadu,304,319,316
+2024-04-10,Covishield,COV-100,Serum Institute,Karnataka,313,330,299
+2024-04-11,Covishield,COV-101,Serum Institute,Tamil Nadu,291,285,239
+2024-04-12,Covishield,COV-102,Serum Institute,Kerala,273,270,224
+2024-04-13,Covishield,COV-103,Serum Institute,Kerala,260,251,221
+2024-04-14,Covishield,COV-104,Serum Institute,Maharashtra,256,247,225
+2024-04-15,Covishield,COV-105,Serum Institute,Maharashtra,259,256,224
+2024-04-16,Covishield,COV-106,Serum Institute,Tamil Nadu,264,251,235
+2024-04-17,Covishield,COV-107,Serum Institute,Kerala,267,276,229
+2024-04-18,Covishield,COV-108,Serum Institute,Kerala,258,247,243
+2024-04-19,Covishield,COV-109,Serum Institute,Kerala,239,257,243
+2024-04-20,Covishield,COV-110,Serum Institute,Karnataka,221,212,189
+2024-04-21,Covishield,COV-111,Serum Institute,Kerala,234,264,235
+2024-04-22,Covishield,COV-112,Serum Institute,Delhi,252,264,217
+2024-04-23,Covishield,COV-113,Serum Institute,Kerala,244,253,250
+2024-04-24,Covishield,COV-114,Serum Institute,Maharashtra,253,243,241
+2024-04-25,Covishield,COV-115,Serum Institute,Karnataka,233,225,182
+2024-04-26,Covishield,COV-116,Serum Institute,Karnataka,241,243,215
+2024-04-27,Covishield,COV-117,Serum Institute,Tamil Nadu,243,250,248
+2024-04-28,Covishield,COV-118,Serum Institute,Karnataka,241,241,240
+2024-04-29,Covishield,COV-119,Serum Institute,Maharashtra,249,252,231
+2024-04-30,Covishield,COV-120,Serum Institute,Delhi,271,296,277
+2024-05-01,Covishield,COV-121,Serum Institute,Maharashtra,300,306,281
+2024-05-02,Covishield,COV-122,Serum Institute,Tamil Nadu,275,261,211
+2024-05-03,Covishield,COV-123,Serum Institute,Kerala,276,271,234
+2024-05-04,Covishield,COV-124,Serum Institute,Delhi,271,275,264
+2024-05-05,Covishield,COV-125,Serum Institute,Karnataka,250,234,232
+2024-05-06,Covishield,COV-126,Serum Institute,Maharashtra,275,270,255
+2024-05-07,Covishield,COV-127,Serum Institute,Delhi,327,310,269
+2024-05-08,Covishield,COV-128,Serum Institute,Karnataka,313,327,299
+2024-05-09,Covishield,COV-129,Serum Institute,Kerala,315,336,326
+2024-05-10,Covishield,COV-130,Serum Institute,Tamil Nadu,284,282,235
+2024-05-11,Covishield,COV-131,Serum Institute,Tamil Nadu,267,284,274
+2024-05-12,Covishield,COV-132,Serum Institute,Kerala,274,267,247
+2024-05-13,Covishield,COV-133,Serum Institute,Maharashtra,271,300,284
+2024-05-14,Covishield,COV-134,Serum Institute,Tamil Nadu,293,308,280
+2024-05-15,Covishield,COV-135,Serum Institute,Kerala,284,271,254
+2024-05-16,Covishield,COV-136,Serum Institute,Karnataka,275,272,256
+2024-05-17,Covishield,COV-137,Serum Institute,Karnataka,244,268,251
+2024-05-18,Covishield,COV-138,Serum Institute,Maharashtra,235,226,203
+2024-05-19,Covishield,COV-139,Serum Institute,Tamil Nadu,228,237,227
+2024-05-20,Covishield,COV-140,Serum Institute,Delhi,237,241,229
+2024-05-21,Covishield,COV-141,Serum Institute,Maharashtra,243,249,223
+2024-05-22,Covishield,COV-142,Serum Institute,Karnataka,258,244,231
+2024-05-23,Covishield,COV-143,Serum Institute,Maharashtra,252,264,235
+2024-05-24,Covishield,COV-144,Serum Institute,Maharashtra,219,216,201
+2024-05-25,Covishield,COV-145,Serum Institute,Kerala,253,236,197
+2024-05-26,Covishield,COV-146,Serum Institute,Karnataka,248,277,272
+2024-05-27,Covishield,COV-147,Serum Institute,Karnataka,278,260,255
+2024-05-28,Covishield,COV-148,Serum Institute,Maharashtra,266,293,279
+2024-05-29,Covishield,COV-149,Serum Institute,Delhi,265,247,215
+2024-05-30,Covishield,COV-150,Serum Institute,Karnataka,288,299,276
+2024-05-31,Covishield,COV-151,Serum Institute,Tamil Nadu,267,251,208
+2024-06-01,Covishield,COV-152,Serum Institute,Maharashtra,257,246,203
+2024-06-02,Covishield,COV-153,Serum Institute,Delhi,275,301,257
+2024-06-03,Covishield,COV-154,Serum Institute,Karnataka,299,314,274
+2024-06-04,Covishield,COV-155,Serum Institute,Delhi,303,328,316
+2024-06-05,Covishield,COV-156,Serum Institute,Kerala,324,316,293
+2024-06-06,Covishield,COV-157,Serum Institute,Karnataka,300,327,290
+2024-06-07,Covishield,COV-158,Serum Institute,Karnataka,282,291,263
+2024-06-08,Covishield,COV-159,Serum Institute,Karnataka,267,263,245
+2024-06-09,Covishield,COV-160,Serum Institute,Delhi,291,313,282
+2024-06-10,Covishield,COV-161,Serum Institute,Tamil Nadu,303,332,297
+2024-06-11,Covishield,COV-162,Serum Institute,Tamil Nadu,312,293,291
+2024-06-12,Covishield,COV-163,Serum Institute,Delhi,298,304,299
+2024-06-13,Covishield,COV-164,Serum Institute,Tamil Nadu,294,287,262
+2024-06-14,Covishield,COV-165,Serum Institute,Karnataka,254,263,256
+2024-06-15,Covishield,COV-166,Serum Institute,Kerala,254,258,245
+2024-06-16,Covishield,COV-167,Serum Institute,Delhi,244,258,236
+2024-06-17,Covishield,COV-168,Serum Institute,Delhi,264,293,288
+2024-06-18,Covishield,COV-169,Serum Institute,Karnataka,277,275,249
+2024-06-19,Covishield,COV-170,Serum Institute,Kerala,248,272,262
+2024-06-20,Covishield,COV-171,Serum Institute,Tamil Nadu,236,258,209
+2024-06-21,Covishield,COV-172,Serum Institute,Kerala,227,238,229
+2024-06-22,Covishield,COV-173,Serum Institute,Delhi,217,237,191
+2024-06-23,Covishield,COV-174,Serum Institute,Tamil Nadu,227,236,191
+2024-06-24,Covishield,COV-175,Serum Institute,Delhi,263,250,243
+2024-06-25,Covishield,COV-176,Serum Institute,Kerala,266,252,216
+2024-06-26,Covishield,COV-177,Serum Institute,Tamil Nadu,279,304,269
+2024-06-27,Covishield,COV-178,Serum Institute,Delhi,276,306,265
+2024-06-28,Covishield,COV-179,Serum Institute,Karnataka,267,276,228
+2024-06-29,Covishield,COV-180,Serum Institute,Kerala,263,261,218
+2024-06-30,Covishield,COV-181,Serum Institute,Karnataka,255,276,269
+2024-07-01,Covishield,COV-182,Serum Institute,Karnataka,291,284,240
+2024-07-02,Covishield,COV-183,Serum Institute,Delhi,290,292,287
+2024-07-03,Covishield,COV-184,Serum Institute,Karnataka,320,301,262
+2024-07-04,Covishield,COV-185,Serum Institute,Kerala,305,311,302
+2024-07-05,Covishield,COV-186,Serum Institute,Karnataka,303,288,270
+2024-07-06,Covishield,COV-187,Serum Institute,Maharashtra,292,292,258
+2024-07-07,Covishield,COV-188,Serum Institute,Delhi,293,304,283
+2024-07-08,Covishield,COV-189,Serum Institute,Tamil Nadu,299,280,270
+2024-07-09,Covishield,COV-190,Serum Institute,Karnataka,304,326,294
+2024-07-10,Covishield,COV-191,Serum Institute,Karnataka,308,309,275
+2024-07-11,Covishield,COV-192,Serum Institute,Maharashtra,301,300,280
+2024-07-12,Covishield,COV-193,Serum Institute,Tamil Nadu,275,256,248
+2024-07-13,Covishield,COV-194,Serum Institute,Kerala,260,282,257
+2024-07-14,Covishield,COV-195,Serum Institute,Karnataka,266,281,265
+2024-07-15,Covishield,COV-196,Serum Institute,Karnataka,264,247,197
+2024-07-16,Covishield,COV-197,Serum Institute,Delhi,274,301,259
+2024-07-17,Covishield,COV-198,Serum Institute,Delhi,256,269,269
+2024-07-18,Covishield,COV-199,Serum Institute,Maharashtra,261,250,204
+2024-07-19,Covishield,COV-200,Serum Institute,Delhi,239,232,200
+2024-07-20,Covishield,COV-201,Serum Institute,Maharashtra,227,212,166
+2024-07-21,Covishield,COV-202,Serum Institute,Maharashtra,225,215,202
+2024-07-22,Covishield,COV-203,Serum Institute,Delhi,244,228,188
+2024-07-23,Covishield,COV-204,Serum Institute,Maharashtra,253,246,234
+2024-07-24,Covishield,COV-205,Serum Institute,Karnataka,257,286,274
+2024-07-25,Covishield,COV-206,Serum Institute,Maharashtra,262,247,209
+2024-07-26,Covishield,COV-207,Serum Institute,Kerala,255,235,231
+2024-07-27,Covishield,COV-208,Serum Institute,Kerala,229,215,186
+2024-07-28,Covishield,COV-209,Serum Institute,Karnataka,251,272,226
+2024-07-29,Covishield,COV-210,Serum Institute,Maharashtra,279,277,266
+2024-07-30,Covishield,COV-211,Serum Institute,Tamil Nadu,320,319,283
+2024-07-31,Covishield,COV-212,Serum Institute,Delhi,320,312,273
+2024-08-01,Covishield,COV-213,Serum Institute,Maharashtra,299,295,295
+2024-08-02,Covishield,COV-214,Serum Institute,Tamil Nadu,289,282,250
+2024-08-03,Covishield,COV-215,Serum Institute,Delhi,304,333,312
+2024-08-04,Covishield,COV-216,Serum Institute,Karnataka,287,314,311
+2024-08-05,Covishield,COV-217,Serum Institute,Delhi,302,326,320
+2024-08-06,Covishield,COV-218,Serum Institute,Maharashtra,331,322,275
+2024-08-07,Covishield,COV-219,Serum Institute,Kerala,322,337,335
+2024-08-08,Covishield,COV-220,Serum Institute,Tamil Nadu,320,300,255
+2024-08-09,Covishield,COV-221,Serum Institute,Maharashtra,305,293,248
+2024-08-10,Covishield,COV-222,Serum Institute,Kerala,281,304,303
+2024-08-11,Covishield,COV-223,Serum Institute,Tamil Nadu,267,251,245
+2024-08-12,Covishield,COV-224,Serum Institute,Maharashtra,274,280,230
+2024-08-13,Covishield,COV-225,Serum Institute,Kerala,300,311,295
+2024-08-14,Covishield,COV-226,Serum Institute,Delhi,307,301,272
+2024-08-15,Covishield,COV-227,Serum Institute,Kerala,292,322,272
+2024-08-16,Covishield,COV-228,Serum Institute,Karnataka,259,273,269
+2024-08-17,Covishield,COV-229,Serum Institute,Kerala,255,258,241
+2024-08-18,Covishield,COV-230,Serum Institute,Delhi,232,225,202
+2024-08-19,Covishield,COV-231,Serum Institute,Maharashtra,238,248,233
+2024-08-20,Covishield,COV-232,Serum Institute,Tamil Nadu,279,309,262
+2024-08-21,Covishield,COV-233,Serum Institute,Maharashtra,278,306,286
+2024-08-22,Covishield,COV-234,Serum Institute,Kerala,264,279,240
+2024-08-23,Covishield,COV-235,Serum Institute,Tamil Nadu,251,278,253
+2024-08-24,Covishield,COV-236,Serum Institute,Tamil Nadu,234,261,245
+2024-08-25,Covishield,COV-237,Serum Institute,Maharashtra,264,261,246
+2024-08-26,Covishield,COV-238,Serum Institute,Delhi,282,279,269
+2024-08-27,Covishield,COV-239,Serum Institute,Karnataka,287,272,271
+2024-08-28,Covishield,COV-240,Serum Institute,Kerala,308,289,268
+2024-08-29,Covishield,COV-241,Serum Institute,Maharashtra,296,290,271
+2024-08-30,Covishield,COV-242,Serum Institute,Tamil Nadu,294,318,293
+2024-08-31,Covishield,COV-243,Serum Institute,Karnataka,272,263,247
+2024-09-01,Covishield,COV-244,Serum Institute,Kerala,295,325,293
+2024-09-02,Covishield,COV-245,Serum Institute,Tamil Nadu,303,325,320
+2024-09-03,Covishield,COV-246,Serum Institute,Karnataka,319,328,318
+2024-09-04,Covishield,COV-247,Serum Institute,Tamil Nadu,336,316,271
+2024-09-05,Covishield,COV-248,Serum Institute,Tamil Nadu,311,318,292
+2024-09-06,Covishield,COV-249,Serum Institute,Karnataka,294,308,265
+2024-09-07,Covishield,COV-250,Serum Institute,Maharashtra,270,276,236
+2024-09-08,Covishield,COV-251,Serum Institute,Delhi,298,286,240
+2024-09-09,Covishield,COV-252,Serum Institute,Karnataka,317,306,298
+2024-09-10,Covishield,COV-253,Serum Institute,Kerala,305,328,303
+2024-09-11,Covishield,COV-254,Serum Institute,Tamil Nadu,317,347,303
+2024-09-12,Covishield,COV-255,Serum Institute,Karnataka,288,297,269
+2024-09-13,Covishield,COV-256,Serum Institute,Maharashtra,265,277,238
+2024-09-14,Covishield,COV-257,Serum Institute,Karnataka,236,237,229
+2024-09-15,Covishield,COV-258,Serum Institute,Karnataka,238,218,204
+2024-09-16,Covishield,COV-259,Serum Institute,Kerala,254,267,260
+2024-09-17,Covishield,COV-260,Serum Institute,Delhi,274,280,263
+2024-09-18,Covishield,COV-261,Serum Institute,Delhi,278,302,258
+2024-09-19,Covishield,COV-262,Serum Institute,Maharashtra,267,249,218
+2024-09-20,Covishield,COV-263,Serum Institute,Maharashtra,238,240,229
+2024-09-21,Covishield,COV-264,Serum Institute,Kerala,245,253,250
+2024-09-22,Covishield,COV-265,Serum Institute,Tamil Nadu,248,256,228
+2024-09-23,Covishield,COV-266,Serum Institute,Karnataka,260,276,270
+2024-09-24,Covishield,COV-267,Serum Institute,Karnataka,283,298,271
+2024-09-25,Covishield,COV-268,Serum Institute,Karnataka,311,291,279
+2024-09-26,Covishield,COV-269,Serum Institute,Delhi,279,267,263
+2024-09-27,Covishield,COV-270,Serum Institute,Tamil Nadu,278,288,257
+2024-09-28,Covishield,COV-271,Serum Institute,Delhi,238,253,221
+2024-09-29,Covishield,COV-272,Serum Institute,Delhi,272,265,262
+2024-09-30,Covishield,COV-273,Serum Institute,Kerala,318,305,290
+2024-10-01,Covishield,COV-274,Serum Institute,Kerala,318,315,305
+2024-10-02,Covishield,COV-275,Serum Institute,Delhi,338,352,345
+2024-10-03,Covishield,COV-276,Serum Institute,Tamil Nadu,319,308,276
+2024-10-04,Covishield,COV-277,Serum Institute,Tamil Nadu,314,301,301
+2024-10-05,Covishield,COV-278,Serum Institute,Karnataka,307,290,255
+2024-10-06,Covishield,COV-279,Serum Institute,Kerala,274,263,239
+2024-10-07,Covishield,COV-280,Serum Institute,Tamil Nadu,318,329,289
+2024-10-08,Covishield,COV-281,Serum Institute,Karnataka,315,330,299
+2024-10-09,Covishield,COV-282,Serum Institute,Tamil Nadu,321,351,318
+2024-10-10,Covishield,COV-283,Serum Institute,Maharashtra,316,301,260
+2024-10-11,Covishield,COV-284,Serum Institute,Tamil Nadu,285,273,241
+2024-10-12,Covishield,COV-285,Serum Institute,Tamil Nadu,272,292,242
+2024-10-13,Covishield,COV-286,Serum Institute,Karnataka,290,271,268
+2024-10-14,Covishield,COV-287,Serum Institute,Maharashtra,271,265,255
+2024-10-15,Covishield,COV-288,Serum Institute,Tamil Nadu,293,302,288
+2024-10-16,Covishield,COV-289,Serum Institute,Kerala,287,293,276
+2024-10-17,Covishield,COV-290,Serum Institute,Maharashtra,274,281,234
+2024-10-18,Covishield,COV-291,Serum Institute,Delhi,254,283,238
+2024-10-19,Covishield,COV-292,Serum Institute,Kerala,225,223,196
+2024-10-20,Covishield,COV-293,Serum Institute,Tamil Nadu,246,242,228
+2024-10-21,Covishield,COV-294,Serum Institute,Kerala,237,238,209
+2024-10-22,Covishield,COV-295,Serum Institute,Karnataka,300,320,311
+2024-10-23,Covishield,COV-296,Serum Institute,Kerala,260,264,253
+2024-10-24,Covishield,COV-297,Serum Institute,Maharashtra,304,310,274
+2024-10-25,Covishield,COV-298,Serum Institute,Kerala,273,284,270
+2024-10-26,Covishield,COV-299,Serum Institute,Tamil Nadu,272,271,256
+2024-10-27,Covishield,COV-300,Serum Institute,Maharashtra,269,288,262
+2024-10-28,Covishield,COV-301,Serum Institute,Delhi,277,280,232
+2024-10-29,Covishield,COV-302,Serum Institute,Kerala,308,288,250
+2024-10-30,Covishield,COV-303,Serum Institute,Karnataka,338,359,320
+2024-10-31,Covishield,COV-304,Serum Institute,Delhi,303,307,305
+2024-11-01,Covishield,COV-305,Serum Institute,Kerala,315,303,266
+2024-11-02,Covishield,COV-306,Serum Institute,Tamil Nadu,295,290,274
+2024-11-03,Covishield,COV-307,Serum Institute,Tamil Nadu,304,331,282
+2024-11-04,Covishield,COV-308,Serum Institute,Maharashtra,330,333,325
+2024-11-05,Covishield,COV-309,Serum Institute,Kerala,340,341,304
+2024-11-06,Covishield,COV-310,Serum Institute,Maharashtra,325,320,271
+2024-11-07,Covishield,COV-311,Serum Institute,Maharashtra,330,350,321
+2024-11-08,Covishield,COV-312,Serum Institute,Maharashtra,321,340,333
+2024-11-09,Covishield,COV-313,Serum Institute,Kerala,274,265,233
+2024-11-10,Covishield,COV-314,Serum Institute,Delhi,272,263,250
+2024-11-11,Covishield,COV-315,Serum Institute,Kerala,302,301,267
+2024-11-12,Covishield,COV-316,Serum Institute,Kerala,284,298,270
+2024-11-13,Covishield,COV-317,Serum Institute,Maharashtra,313,318,297
+2024-11-14,Covishield,COV-318,Serum Institute,Tamil Nadu,303,319,271
+2024-11-15,Covishield,COV-319,Serum Institute,Karnataka,265,282,246
+2024-11-16,Covishield,COV-320,Serum Institute,Tamil Nadu,274,265,237
+2024-11-17,Covishield,COV-321,Serum Institute,Delhi,228,243,215
+2024-11-18,Covishield,COV-322,Serum Institute,Delhi,263,248,227
+2024-11-19,Covishield,COV-323,Serum Institute,Tamil Nadu,304,304,283
+2024-11-20,Covishield,COV-324,Serum Institute,Maharashtra,271,301,272
+2024-11-21,Covishield,COV-325,Serum Institute,Karnataka,266,285,249
+2024-11-22,Covishield,COV-326,Serum Institute,Kerala,264,270,250
+2024-11-23,Covishield,COV-327,Serum Institute,Kerala,238,231,227
+2024-11-24,Covishield,COV-328,Serum Institute,Maharashtra,270,269,267
+2024-11-25,Covishield,COV-329,Serum Institute,Maharashtra,312,324,293
+2024-11-26,Covishield,COV-330,Serum Institute,Delhi,305,290,254
+2024-11-27,Covishield,COV-331,Serum Institute,Tamil Nadu,317,308,267
+2024-11-28,Covishield,COV-332,Serum Institute,Karnataka,324,344,337
+2024-11-29,Covishield,COV-333,Serum Institute,Tamil Nadu,292,320,291
+2024-11-30,Covishield,COV-334,Serum Institute,Karnataka,299,300,280
+2024-12-01,Covishield,COV-335,Serum Institute,Karnataka,325,309,292
+2024-12-02,Covishield,COV-336,Serum Institute,Delhi,305,304,275
+2024-12-03,Covishield,COV-337,Serum Institute,Kerala,338,330,315
+2024-12-04,Covishield,COV-338,Serum Institute,Kerala,343,327,314
+2024-12-05,Covishield,COV-339,Serum Institute,Tamil Nadu,341,353,325
+2024-12-06,Covishield,COV-340,Serum Institute,Tamil Nadu,320,309,287
+2024-12-07,Covishield,COV-341,Serum Institute,Tamil Nadu,310,307,264
+2024-12-08,Covishield,COV-342,Serum Institute,Kerala,303,314,301
+2024-12-09,Covishield,COV-343,Serum Institute,Tamil Nadu,309,316,312
+2024-12-10,Covishield,COV-344,Serum Institute,Karnataka,315,333,294
+2024-12-11,Covishield,COV-345,Serum Institute,Kerala,305,315,279
+2024-12-12,Covishield,COV-346,Serum Institute,Delhi,302,325,298
+2024-12-13,Covishield,COV-347,Serum Institute,Karnataka,273,279,251
+2024-12-14,Covishield,COV-348,Serum Institute,Tamil Nadu,267,255,243
+2024-12-15,Covishield,COV-349,Serum Institute,Kerala,250,264,245
+2024-12-16,Covishield,COV-350,Serum Institute,Karnataka,293,322,272
+2024-12-17,Covishield,COV-351,Serum Institute,Delhi,288,290,281
+2024-12-18,Covishield,COV-352,Serum Institute,Kerala,287,306,301
+2024-12-19,Covishield,COV-353,Serum Institute,Delhi,270,284,283
+2024-12-20,Covishield,COV-354,Serum Institute,Maharashtra,260,284,260
+2024-12-21,Covishield,COV-355,Serum Institute,Maharashtra,255,249,244
+2024-12-22,Covishield,COV-356,Serum Institute,Karnataka,268,293,290
+2024-12-23,Covishield,COV-357,Serum Institute,Delhi,266,252,219
+2024-12-24,Covishield,COV-358,Serum Institute,Tamil Nadu,300,298,281
+2024-12-25,Covishield,COV-359,Serum Institute,Maharashtra,325,324,316
+2024-12-26,Covishield,COV-360,Serum Institute,Kerala,309,289,263
+2024-12-27,Covishield,COV-361,Serum Institute,Maharashtra,292,283,274
+2024-12-28,Covishield,COV-362,Serum Institute,Delhi,292,314,296
+2024-12-29,Covishield,COV-363,Serum Institute,Karnataka,294,277,261
+2024-12-30,Covishield,COV-364,Serum Institute,Karnataka,306,328,319
+2024-01-01,Covaxin,COV-000,Bharat Biotech,Tamil Nadu,205,231,200
+2024-01-02,Covaxin,COV-001,Bharat Biotech,Tamil Nadu,208,192,145
+2024-01-03,Covaxin,COV-002,Bharat Biotech,Tamil Nadu,235,257,215
+2024-01-04,Covaxin,COV-003,Bharat Biotech,Tamil Nadu,210,218,176
+2024-01-05,Covaxin,COV-004,Bharat Biotech,Kerala,224,216,183
+2024-01-06,Covaxin,COV-005,Bharat Biotech,Tamil Nadu,207,194,187
+2024-01-07,Covaxin,COV-006,Bharat Biotech,Delhi,212,210,177
+2024-01-08,Covaxin,COV-007,Bharat Biotech,Delhi,219,227,193
+2024-01-09,Covaxin,COV-008,Bharat Biotech,Kerala,245,239,231
+2024-01-10,Covaxin,COV-009,Bharat Biotech,Kerala,250,237,211
+2024-01-11,Covaxin,COV-010,Bharat Biotech,Tamil Nadu,233,244,200
+2024-01-12,Covaxin,COV-011,Bharat Biotech,Tamil Nadu,216,219,219
+2024-01-13,Covaxin,COV-012,Bharat Biotech,Maharashtra,206,231,216
+2024-01-14,Covaxin,COV-013,Bharat Biotech,Delhi,192,196,155
+2024-01-15,Covaxin,COV-014,Bharat Biotech,Kerala,211,195,156
+2024-01-16,Covaxin,COV-015,Bharat Biotech,Tamil Nadu,200,224,204
+2024-01-17,Covaxin,COV-016,Bharat Biotech,Karnataka,212,224,198
+2024-01-18,Covaxin,COV-017,Bharat Biotech,Delhi,205,195,195
+2024-01-19,Covaxin,COV-018,Bharat Biotech,Tamil Nadu,171,200,165
+2024-01-20,Covaxin,COV-019,Bharat Biotech,Maharashtra,157,146,129
+2024-01-21,Covaxin,COV-020,Bharat Biotech,Karnataka,170,164,153
+2024-01-22,Covaxin,COV-021,Bharat Biotech,Karnataka,184,206,200
+2024-01-23,Covaxin,COV-022,Bharat Biotech,Karnataka,176,189,187
+2024-01-24,Covaxin,COV-023,Bharat Biotech,Delhi,177,200,171
+2024-01-25,Covaxin,COV-024,Bharat Biotech,Tamil Nadu,177,201,165
+2024-01-26,Covaxin,COV-025,Bharat Biotech,Delhi,167,197,190
+2024-01-27,Covaxin,COV-026,Bharat Biotech,Tamil Nadu,156,171,137
+2024-01-28,Covaxin,COV-027,Bharat Biotech,Karnataka,168,186,174
+2024-01-29,Covaxin,COV-028,Bharat Biotech,Maharashtra,198,223,185
+2024-01-30,Covaxin,COV-029,Bharat Biotech,Maharashtra,211,196,148
+2024-01-31,Covaxin,COV-030,Bharat Biotech,Kerala,219,248,222
+2024-02-01,Covaxin,COV-031,Bharat Biotech,Delhi,202,227,218
+2024-02-02,Covaxin,COV-032,Bharat Biotech,Tamil Nadu,184,210,201
+2024-02-03,Covaxin,COV-033,Bharat Biotech,Karnataka,201,201,160
+2024-02-04,Covaxin,COV-034,Bharat Biotech,Kerala,207,191,184
+2024-02-05,Covaxin,COV-035,Bharat Biotech,Tamil Nadu,219,239,222
+2024-02-06,Covaxin,COV-036,Bharat Biotech,Kerala,236,246,221
+2024-02-07,Covaxin,COV-037,Bharat Biotech,Tamil Nadu,245,239,210
+2024-02-08,Covaxin,COV-038,Bharat Biotech,Tamil Nadu,229,252,232
+2024-02-09,Covaxin,COV-039,Bharat Biotech,Maharashtra,226,252,215
+2024-02-10,Covaxin,COV-040,Bharat Biotech,Delhi,223,228,197
+2024-02-11,Covaxin,COV-041,Bharat Biotech,Karnataka,224,253,251
+2024-02-12,Covaxin,COV-042,Bharat Biotech,Kerala,224,225,193
+2024-02-13,Covaxin,COV-043,Bharat Biotech,Delhi,225,216,180
+2024-02-14,Covaxin,COV-044,Bharat Biotech,Kerala,216,228,196
+2024-02-15,Covaxin,COV-045,Bharat Biotech,Karnataka,212,203,197
+2024-02-16,Covaxin,COV-046,Bharat Biotech,Delhi,172,160,129
+2024-02-17,Covaxin,COV-047,Bharat Biotech,Delhi,177,166,150
+2024-02-18,Covaxin,COV-048,Bharat Biotech,Tamil Nadu,136,129,106
+2024-02-19,Covaxin,COV-049,Bharat Biotech,Tamil Nadu,179,163,136
+2024-02-20,Covaxin,COV-050,Bharat Biotech,Tamil Nadu,180,195,168
+2024-02-21,Covaxin,COV-051,Bharat Biotech,Delhi,172,152,112
+2024-02-22,Covaxin,COV-052,Bharat Biotech,Tamil Nadu,189,180,167
+2024-02-23,Covaxin,COV-053,Bharat Biotech,Maharashtra,128,131,116
+2024-02-24,Covaxin,COV-054,Bharat Biotech,Tamil Nadu,155,138,89
+2024-02-25,Covaxin,COV-055,Bharat Biotech,Kerala,145,128,98
+2024-02-26,Covaxin,COV-056,Bharat Biotech,Delhi,186,213,205
+2024-02-27,Covaxin,COV-057,Bharat Biotech,Kerala,203,199,181
+2024-02-28,Covaxin,COV-058,Bharat Biotech,Tamil Nadu,192,211,174
+2024-02-29,Covaxin,COV-059,Bharat Biotech,Delhi,213,201,163
+2024-03-01,Covaxin,COV-060,Bharat Biotech,Karnataka,190,189,157
+2024-03-02,Covaxin,COV-061,Bharat Biotech,Kerala,184,211,189
+2024-03-03,Covaxin,COV-062,Bharat Biotech,Delhi,174,174,130
+2024-03-04,Covaxin,COV-063,Bharat Biotech,Karnataka,215,234,218
+2024-03-05,Covaxin,COV-064,Bharat Biotech,Karnataka,251,240,233
+2024-03-06,Covaxin,COV-065,Bharat Biotech,Delhi,261,256,251
+2024-03-07,Covaxin,COV-066,Bharat Biotech,Delhi,234,235,206
+2024-03-08,Covaxin,COV-067,Bharat Biotech,Kerala,228,235,205
+2024-03-09,Covaxin,COV-068,Bharat Biotech,Karnataka,223,217,195
+2024-03-10,Covaxin,COV-069,Bharat Biotech,Karnataka,208,231,214
+2024-03-11,Covaxin,COV-070,Bharat Biotech,Kerala,225,205,169
+2024-03-12,Covaxin,COV-071,Bharat Biotech,Maharashtra,238,246,197
+2024-03-13,Covaxin,COV-072,Bharat Biotech,Kerala,259,262,236
+2024-03-14,Covaxin,COV-073,Bharat Biotech,Delhi,235,216,203
+2024-03-15,Covaxin,COV-074,Bharat Biotech,Tamil Nadu,197,182,167
+2024-03-16,Covaxin,COV-075,Bharat Biotech,Kerala,182,200,187
+2024-03-17,Covaxin,COV-076,Bharat Biotech,Delhi,186,170,166
+2024-03-18,Covaxin,COV-077,Bharat Biotech,Delhi,187,191,178
+2024-03-19,Covaxin,COV-078,Bharat Biotech,Karnataka,193,189,170
+2024-03-20,Covaxin,COV-079,Bharat Biotech,Kerala,177,157,112
+2024-03-21,Covaxin,COV-080,Bharat Biotech,Maharashtra,176,164,157
+2024-03-22,Covaxin,COV-081,Bharat Biotech,Maharashtra,160,167,139
+2024-03-23,Covaxin,COV-082,Bharat Biotech,Karnataka,158,142,96
+2024-03-24,Covaxin,COV-083,Bharat Biotech,Maharashtra,159,158,139
+2024-03-25,Covaxin,COV-084,Bharat Biotech,Tamil Nadu,160,171,171
+2024-03-26,Covaxin,COV-085,Bharat Biotech,Kerala,191,181,135
+2024-03-27,Covaxin,COV-086,Bharat Biotech,Kerala,183,212,173
+2024-03-28,Covaxin,COV-087,Bharat Biotech,Delhi,176,166,148
+2024-03-29,Covaxin,COV-088,Bharat Biotech,Maharashtra,193,223,193
+2024-03-30,Covaxin,COV-089,Bharat Biotech,Tamil Nadu,184,206,178
+2024-03-31,Covaxin,COV-090,Bharat Biotech,Delhi,197,207,180
+2024-04-01,Covaxin,COV-091,Bharat Biotech,Karnataka,212,200,160
+2024-04-02,Covaxin,COV-092,Bharat Biotech,Tamil Nadu,234,254,207
+2024-04-03,Covaxin,COV-093,Bharat Biotech,Maharashtra,231,212,194
+2024-04-04,Covaxin,COV-094,Bharat Biotech,Delhi,267,262,215
+2024-04-05,Covaxin,COV-095,Bharat Biotech,Delhi,231,223,200
+2024-04-06,Covaxin,COV-096,Bharat Biotech,Karnataka,218,200,175
+2024-04-07,Covaxin,COV-097,Bharat Biotech,Maharashtra,217,221,194
+2024-04-08,Covaxin,COV-098,Bharat Biotech,Tamil Nadu,229,252,221
+2024-04-09,Covaxin,COV-099,Bharat Biotech,Karnataka,255,276,259
+2024-04-10,Covaxin,COV-100,Bharat Biotech,Kerala,237,263,260
+2024-04-11,Covaxin,COV-101,Bharat Biotech,Karnataka,243,244,229
+2024-04-12,Covaxin,COV-102,Bharat Biotech,Maharashtra,206,192,143
+2024-04-13,Covaxin,COV-103,Bharat Biotech,Kerala,202,230,224
+2024-04-14,Covaxin,COV-104,Bharat Biotech,Delhi,217,229,193
+2024-04-15,Covaxin,COV-105,Bharat Biotech,Tamil Nadu,217,211,187
+2024-04-16,Covaxin,COV-106,Bharat Biotech,Tamil Nadu,219,247,207
+2024-04-17,Covaxin,COV-107,Bharat Biotech,Karnataka,211,195,158
+2024-04-18,Covaxin,COV-108,Bharat Biotech,Tamil Nadu,185,173,173
+2024-04-19,Covaxin,COV-109,Bharat Biotech,Kerala,167,181,138
+2024-04-20,Covaxin,COV-110,Bharat Biotech,Maharashtra,156,157,146
+2024-04-21,Covaxin,COV-111,Bharat Biotech,Maharashtra,152,143,141
+2024-04-22,Covaxin,COV-112,Bharat Biotech,Kerala,168,160,123
+2024-04-23,Covaxin,COV-113,Bharat Biotech,Tamil Nadu,188,204,185
+2024-04-24,Covaxin,COV-114,Bharat Biotech,Kerala,192,202,160
+2024-04-25,Covaxin,COV-115,Bharat Biotech,Maharashtra,207,216,208
+2024-04-26,Covaxin,COV-116,Bharat Biotech,Kerala,159,140,106
+2024-04-27,Covaxin,COV-117,Bharat Biotech,Maharashtra,151,147,126
+2024-04-28,Covaxin,COV-118,Bharat Biotech,Kerala,161,151,106
+2024-04-29,Covaxin,COV-119,Bharat Biotech,Kerala,203,203,179
+2024-04-30,Covaxin,COV-120,Bharat Biotech,Karnataka,240,270,267
+2024-05-01,Covaxin,COV-121,Bharat Biotech,Maharashtra,229,255,251
+2024-05-02,Covaxin,COV-122,Bharat Biotech,Delhi,230,234,203
+2024-05-03,Covaxin,COV-123,Bharat Biotech,Delhi,206,200,165
+2024-05-04,Covaxin,COV-124,Bharat Biotech,Tamil Nadu,207,230,196
+2024-05-05,Covaxin,COV-125,Bharat Biotech,Kerala,208,228,178
+2024-05-06,Covaxin,COV-126,Bharat Biotech,Kerala,230,237,227
+2024-05-07,Covaxin,COV-127,Bharat Biotech,Kerala,254,241,219
+2024-05-08,Covaxin,COV-128,Bharat Biotech,Kerala,265,288,285
+2024-05-09,Covaxin,COV-129,Bharat Biotech,Kerala,233,216,209
+2024-05-10,Covaxin,COV-130,Bharat Biotech,Maharashtra,218,205,160
+2024-05-11,Covaxin,COV-131,Bharat Biotech,Kerala,207,220,203
+2024-05-12,Covaxin,COV-132,Bharat Biotech,Maharashtra,196,177,139
+2024-05-13,Covaxin,COV-133,Bharat Biotech,Kerala,245,266,237
+2024-05-14,Covaxin,COV-134,Bharat Biotech,Karnataka,224,232,189
+2024-05-15,Covaxin,COV-135,Bharat Biotech,Kerala,232,250,228
+2024-05-16,Covaxin,COV-136,Bharat Biotech,Maharashtra,217,207,183
+2024-05-17,Covaxin,COV-137,Bharat Biotech,Karnataka,183,169,158
+2024-05-18,Covaxin,COV-138,Bharat Biotech,Maharashtra,166,158,150
+2024-05-19,Covaxin,COV-139,Bharat Biotech,Tamil Nadu,172,181,171
+2024-05-20,Covaxin,COV-140,Bharat Biotech,Kerala,173,194,178
+2024-05-21,Covaxin,COV-141,Bharat Biotech,Karnataka,189,199,198
+2024-05-22,Covaxin,COV-142,Bharat Biotech,Delhi,199,199,162
+2024-05-23,Covaxin,COV-143,Bharat Biotech,Delhi,177,176,160
+2024-05-24,Covaxin,COV-144,Bharat Biotech,Delhi,168,162,118
+2024-05-25,Covaxin,COV-145,Bharat Biotech,Delhi,153,141,141
+2024-05-26,Covaxin,COV-146,Bharat Biotech,Tamil Nadu,168,161,150
+2024-05-27,Covaxin,COV-147,Bharat Biotech,Karnataka,175,171,128
+2024-05-28,Covaxin,COV-148,Bharat Biotech,Maharashtra,219,202,192
+2024-05-29,Covaxin,COV-149,Bharat Biotech,Kerala,213,239,211
+2024-05-30,Covaxin,COV-150,Bharat Biotech,Tamil Nadu,215,198,170
+2024-05-31,Covaxin,COV-151,Bharat Biotech,Delhi,193,210,168
+2024-06-01,Covaxin,COV-152,Bharat Biotech,Delhi,202,191,143
+2024-06-02,Covaxin,COV-153,Bharat Biotech,Tamil Nadu,225,214,173
+2024-06-03,Covaxin,COV-154,Bharat Biotech,Tamil Nadu,233,254,215
+2024-06-04,Covaxin,COV-155,Bharat Biotech,Maharashtra,243,246,245
+2024-06-05,Covaxin,COV-156,Bharat Biotech,Maharashtra,266,268,249
+2024-06-06,Covaxin,COV-157,Bharat Biotech,Karnataka,242,237,218
+2024-06-07,Covaxin,COV-158,Bharat Biotech,Karnataka,235,225,202
+2024-06-08,Covaxin,COV-159,Bharat Biotech,Karnataka,219,203,176
+2024-06-09,Covaxin,COV-160,Bharat Biotech,Delhi,236,222,205
+2024-06-10,Covaxin,COV-161,Bharat Biotech,Delhi,221,241,237
+2024-06-11,Covaxin,COV-162,Bharat Biotech,Tamil Nadu,236,266,263
+2024-06-12,Covaxin,COV-163,Bharat Biotech,Karnataka,238,256,213
+2024-06-13,Covaxin,COV-164,Bharat Biotech,Tamil Nadu,248,262,251
+2024-06-14,Covaxin,COV-165,Bharat Biotech,Maharashtra,209,232,226
+2024-06-15,Covaxin,COV-166,Bharat Biotech,Tamil Nadu,194,209,175
+2024-06-16,Covaxin,COV-167,Bharat Biotech,Delhi,175,182,160
+2024-06-17,Covaxin,COV-168,Bharat Biotech,Delhi,190,195,177
+2024-06-18,Covaxin,COV-169,Bharat Biotech,Tamil Nadu,187,197,178
+2024-06-19,Covaxin,COV-170,Bharat Biotech,Kerala,200,181,142
+2024-06-20,Covaxin,COV-171,Bharat Biotech,Tamil Nadu,182,190,161
+2024-06-21,Covaxin,COV-172,Bharat Biotech,Karnataka,177,181,174
+2024-06-22,Covaxin,COV-173,Bharat Biotech,Delhi,161,151,121
+2024-06-23,Covaxin,COV-174,Bharat Biotech,Kerala,154,137,119
+2024-06-24,Covaxin,COV-175,Bharat Biotech,Maharashtra,180,176,127
+2024-06-25,Covaxin,COV-176,Bharat Biotech,Tamil Nadu,196,204,172
+2024-06-26,Covaxin,COV-177,Bharat Biotech,Maharashtra,211,232,232
+2024-06-27,Covaxin,COV-178,Bharat Biotech,Delhi,217,197,169
+2024-06-28,Covaxin,COV-179,Bharat Biotech,Delhi,186,172,131
+2024-06-29,Covaxin,COV-180,Bharat Biotech,Maharashtra,197,192,190
+2024-06-30,Covaxin,COV-181,Bharat Biotech,Delhi,200,229,201
+2024-07-01,Covaxin,COV-182,Bharat Biotech,Kerala,215,209,160
+2024-07-02,Covaxin,COV-183,Bharat Biotech,Delhi,237,244,234
+2024-07-03,Covaxin,COV-184,Bharat Biotech,Delhi,242,263,231
+2024-07-04,Covaxin,COV-185,Bharat Biotech,Maharashtra,240,268,234
+2024-07-05,Covaxin,COV-186,Bharat Biotech,Karnataka,217,199,152
+2024-07-06,Covaxin,COV-187,Bharat Biotech,Kerala,253,250,217
+2024-07-07,Covaxin,COV-188,Bharat Biotech,Maharashtra,203,189,144
+2024-07-08,Covaxin,COV-189,Bharat Biotech,Karnataka,245,231,198
+2024-07-09,Covaxin,COV-190,Bharat Biotech,Delhi,233,226,200
+2024-07-10,Covaxin,COV-191,Bharat Biotech,Delhi,260,285,246
+2024-07-11,Covaxin,COV-192,Bharat Biotech,Maharashtra,247,261,223
+2024-07-12,Covaxin,COV-193,Bharat Biotech,Tamil Nadu,228,209,186
+2024-07-13,Covaxin,COV-194,Bharat Biotech,Delhi,200,221,220
+2024-07-14,Covaxin,COV-195,Bharat Biotech,Delhi,210,232,228
+2024-07-15,Covaxin,COV-196,Bharat Biotech,Karnataka,204,209,167
+2024-07-16,Covaxin,COV-197,Bharat Biotech,Tamil Nadu,209,231,206
+2024-07-17,Covaxin,COV-198,Bharat Biotech,Tamil Nadu,207,230,211
+2024-07-18,Covaxin,COV-199,Bharat Biotech,Maharashtra,198,197,176
+2024-07-19,Covaxin,COV-200,Bharat Biotech,Kerala,158,171,147
+2024-07-20,Covaxin,COV-201,Bharat Biotech,Karnataka,159,172,145
+2024-07-21,Covaxin,COV-202,Bharat Biotech,Kerala,170,189,178
+2024-07-22,Covaxin,COV-203,Bharat Biotech,Kerala,194,209,206
+2024-07-23,Covaxin,COV-204,Bharat Biotech,Tamil Nadu,180,194,166
+2024-07-24,Covaxin,COV-205,Bharat Biotech,Delhi,196,214,205
+2024-07-25,Covaxin,COV-206,Bharat Biotech,Delhi,213,195,154
+2024-07-26,Covaxin,COV-207,Bharat Biotech,Tamil Nadu,176,167,121
+2024-07-27,Covaxin,COV-208,Bharat Biotech,Maharashtra,162,155,153
+2024-07-28,Covaxin,COV-209,Bharat Biotech,Kerala,194,208,185
+2024-07-29,Covaxin,COV-210,Bharat Biotech,Tamil Nadu,204,233,227
+2024-07-30,Covaxin,COV-211,Bharat Biotech,Tamil Nadu,249,245,226
+2024-07-31,Covaxin,COV-212,Bharat Biotech,Delhi,224,240,209
+2024-08-01,Covaxin,COV-213,Bharat Biotech,Karnataka,236,265,236
+2024-08-02,Covaxin,COV-214,Bharat Biotech,Tamil Nadu,234,251,204
+2024-08-03,Covaxin,COV-215,Bharat Biotech,Kerala,201,218,190
+2024-08-04,Covaxin,COV-216,Bharat Biotech,Maharashtra,229,224,198
+2024-08-05,Covaxin,COV-217,Bharat Biotech,Delhi,234,239,226
+2024-08-06,Covaxin,COV-218,Bharat Biotech,Karnataka,264,247,229
+2024-08-07,Covaxin,COV-219,Bharat Biotech,Kerala,266,259,243
+2024-08-08,Covaxin,COV-220,Bharat Biotech,Karnataka,239,268,227
+2024-08-09,Covaxin,COV-221,Bharat Biotech,Maharashtra,234,214,180
+2024-08-10,Covaxin,COV-222,Bharat Biotech,Tamil Nadu,240,234,230
+2024-08-11,Covaxin,COV-223,Bharat Biotech,Maharashtra,184,174,143
+2024-08-12,Covaxin,COV-224,Bharat Biotech,Maharashtra,219,232,228
+2024-08-13,Covaxin,COV-225,Bharat Biotech,Karnataka,220,216,193
+2024-08-14,Covaxin,COV-226,Bharat Biotech,Maharashtra,217,207,169
+2024-08-15,Covaxin,COV-227,Bharat Biotech,Kerala,202,209,207
+2024-08-16,Covaxin,COV-228,Bharat Biotech,Kerala,183,210,160
+2024-08-17,Covaxin,COV-229,Bharat Biotech,Karnataka,182,183,177
+2024-08-18,Covaxin,COV-230,Bharat Biotech,Maharashtra,177,203,178
+2024-08-19,Covaxin,COV-231,Bharat Biotech,Delhi,186,212,209
+2024-08-20,Covaxin,COV-232,Bharat Biotech,Tamil Nadu,194,186,148
+2024-08-21,Covaxin,COV-233,Bharat Biotech,Delhi,190,192,178
+2024-08-22,Covaxin,COV-234,Bharat Biotech,Kerala,184,209,160
+2024-08-23,Covaxin,COV-235,Bharat Biotech,Maharashtra,160,179,159
+2024-08-24,Covaxin,COV-236,Bharat Biotech,Tamil Nadu,182,211,211
+2024-08-25,Covaxin,COV-237,Bharat Biotech,Karnataka,166,155,119
+2024-08-26,Covaxin,COV-238,Bharat Biotech,Karnataka,212,200,150
+2024-08-27,Covaxin,COV-239,Bharat Biotech,Karnataka,216,237,236
+2024-08-28,Covaxin,COV-240,Bharat Biotech,Karnataka,234,246,197
+2024-08-29,Covaxin,COV-241,Bharat Biotech,Karnataka,203,229,202
+2024-08-30,Covaxin,COV-242,Bharat Biotech,Karnataka,212,234,234
+2024-08-31,Covaxin,COV-243,Bharat Biotech,Karnataka,211,209,174
+2024-09-01,Covaxin,COV-244,Bharat Biotech,Tamil Nadu,214,221,193
+2024-09-02,Covaxin,COV-245,Bharat Biotech,Karnataka,242,233,210
+2024-09-03,Covaxin,COV-246,Bharat Biotech,Maharashtra,263,285,258
+2024-09-04,Covaxin,COV-247,Bharat Biotech,Maharashtra,264,256,234
+2024-09-05,Covaxin,COV-248,Bharat Biotech,Karnataka,250,276,264
+2024-09-06,Covaxin,COV-249,Bharat Biotech,Delhi,242,232,214
+2024-09-07,Covaxin,COV-250,Bharat Biotech,Kerala,226,220,198
+2024-09-08,Covaxin,COV-251,Bharat Biotech,Tamil Nadu,209,202,197
+2024-09-09,Covaxin,COV-252,Bharat Biotech,Karnataka,221,231,208
+2024-09-10,Covaxin,COV-253,Bharat Biotech,Karnataka,245,269,268
+2024-09-11,Covaxin,COV-254,Bharat Biotech,Karnataka,244,226,190
+2024-09-12,Covaxin,COV-255,Bharat Biotech,Kerala,221,247,239
+2024-09-13,Covaxin,COV-256,Bharat Biotech,Maharashtra,203,200,158
+2024-09-14,Covaxin,COV-257,Bharat Biotech,Karnataka,206,188,180
+2024-09-15,Covaxin,COV-258,Bharat Biotech,Maharashtra,169,159,146
+2024-09-16,Covaxin,COV-259,Bharat Biotech,Tamil Nadu,182,162,117
+2024-09-17,Covaxin,COV-260,Bharat Biotech,Delhi,215,214,171
+2024-09-18,Covaxin,COV-261,Bharat Biotech,Maharashtra,206,231,185
+2024-09-19,Covaxin,COV-262,Bharat Biotech,Kerala,202,182,139
+2024-09-20,Covaxin,COV-263,Bharat Biotech,Karnataka,178,179,174
+2024-09-21,Covaxin,COV-264,Bharat Biotech,Tamil Nadu,157,173,139
+2024-09-22,Covaxin,COV-265,Bharat Biotech,Kerala,172,160,125
+2024-09-23,Covaxin,COV-266,Bharat Biotech,Delhi,192,201,153
+2024-09-24,Covaxin,COV-267,Bharat Biotech,Karnataka,214,212,168
+2024-09-25,Covaxin,COV-268,Bharat Biotech,Kerala,220,202,198
+2024-09-26,Covaxin,COV-269,Bharat Biotech,Kerala,225,214,201
+2024-09-27,Covaxin,COV-270,Bharat Biotech,Tamil Nadu,187,178,166
+2024-09-28,Covaxin,COV-271,Bharat Biotech,Tamil Nadu,183,197,149
+2024-09-29,Covaxin,COV-272,Bharat Biotech,Delhi,212,215,202
+2024-09-30,Covaxin,COV-273,Bharat Biotech,Maharashtra,218,226,216
+2024-10-01,Covaxin,COV-274,Bharat Biotech,Kerala,263,288,276
+2024-10-02,Covaxin,COV-275,Bharat Biotech,Tamil Nadu,249,266,216
+2024-10-03,Covaxin,COV-276,Bharat Biotech,Kerala,262,276,230
+2024-10-04,Covaxin,COV-277,Bharat Biotech,Tamil Nadu,220,213,170
+2024-10-05,Covaxin,COV-278,Bharat Biotech,Kerala,204,198,196
+2024-10-06,Covaxin,COV-279,Bharat Biotech,Tamil Nadu,232,243,234
+2024-10-07,Covaxin,COV-280,Bharat Biotech,Maharashtra,236,254,218
+2024-10-08,Covaxin,COV-281,Bharat Biotech,Delhi,262,243,241
+2024-10-09,Covaxin,COV-282,Bharat Biotech,Maharashtra,259,255,240
+2024-10-10,Covaxin,COV-283,Bharat Biotech,Kerala,242,270,225
+2024-10-11,Covaxin,COV-284,Bharat Biotech,Tamil Nadu,217,224,221
+2024-10-12,Covaxin,COV-285,Bharat Biotech,Delhi,205,224,224
+2024-10-13,Covaxin,COV-286,Bharat Biotech,Karnataka,185,206,177
+2024-10-14,Covaxin,COV-287,Bharat Biotech,Delhi,222,251,246
+2024-10-15,Covaxin,COV-288,Bharat Biotech,Maharashtra,213,223,190
+2024-10-16,Covaxin,COV-289,Bharat Biotech,Kerala,203,219,181
+2024-10-17,Covaxin,COV-290,Bharat Biotech,Kerala,197,185,138
+2024-10-18,Covaxin,COV-291,Bharat Biotech,Tamil Nadu,178,199,153
+2024-10-19,Covaxin,COV-292,Bharat Biotech,Delhi,167,150,125
+2024-10-20,Covaxin,COV-293,Bharat Biotech,Maharashtra,175,177,160
+2024-10-21,Covaxin,COV-294,Bharat Biotech,Delhi,166,179,171
+2024-10-22,Covaxin,COV-295,Bharat Biotech,Tamil Nadu,206,209,190
+2024-10-23,Covaxin,COV-296,Bharat Biotech,Maharashtra,201,186,161
+2024-10-24,Covaxin,COV-297,Bharat Biotech,Karnataka,211,227,179
+2024-10-25,Covaxin,COV-298,Bharat Biotech,Tamil Nadu,190,198,186
+2024-10-26,Covaxin,COV-299,Bharat Biotech,Tamil Nadu,201,189,153
+2024-10-27,Covaxin,COV-300,Bharat Biotech,Kerala,200,198,159
+2024-10-28,Covaxin,COV-301,Bharat Biotech,Karnataka,231,260,240
+2024-10-29,Covaxin,COV-302,Bharat Biotech,Kerala,245,226,193
+2024-10-30,Covaxin,COV-303,Bharat Biotech,Karnataka,234,229,196
+2024-10-31,Covaxin,COV-304,Bharat Biotech,Maharashtra,239,234,199
+2024-11-01,Covaxin,COV-305,Bharat Biotech,Karnataka,234,225,189
+2024-11-02,Covaxin,COV-306,Bharat Biotech,Karnataka,220,237,215
+2024-11-03,Covaxin,COV-307,Bharat Biotech,Karnataka,239,241,191
+2024-11-04,Covaxin,COV-308,Bharat Biotech,Karnataka,252,274,234
+2024-11-05,Covaxin,COV-309,Bharat Biotech,Maharashtra,257,274,244
+2024-11-06,Covaxin,COV-310,Bharat Biotech,Kerala,270,298,286
+2024-11-07,Covaxin,COV-311,Bharat Biotech,Tamil Nadu,245,232,210
+2024-11-08,Covaxin,COV-312,Bharat Biotech,Maharashtra,223,247,228
+2024-11-09,Covaxin,COV-313,Bharat Biotech,Delhi,212,221,178
+2024-11-10,Covaxin,COV-314,Bharat Biotech,Delhi,206,212,207
+2024-11-11,Covaxin,COV-315,Bharat Biotech,Tamil Nadu,220,242,236
+2024-11-12,Covaxin,COV-316,Bharat Biotech,Kerala,240,270,226
+2024-11-13,Covaxin,COV-317,Bharat Biotech,Delhi,243,250,211
+2024-11-14,Covaxin,COV-318,Bharat Biotech,Kerala,223,250,245
+2024-11-15,Covaxin,COV-319,Bharat Biotech,Tamil Nadu,189,202,180
+2024-11-16,Covaxin,COV-320,Bharat Biotech,Delhi,182,200,165
+2024-11-17,Covaxin,COV-321,Bharat Biotech,Delhi,170,182,176
+2024-11-18,Covaxin,COV-322,Bharat Biotech,Tamil Nadu,185,196,157
+2024-11-19,Covaxin,COV-323,Bharat Biotech,Karnataka,212,208,189
+2024-11-20,Covaxin,COV-324,Bharat Biotech,Tamil Nadu,212,194,164
+2024-11-21,Covaxin,COV-325,Bharat Biotech,Karnataka,199,191,147
+2024-11-22,Covaxin,COV-326,Bharat Biotech,Kerala,180,206,185
+2024-11-23,Covaxin,COV-327,Bharat Biotech,Karnataka,192,184,149
+2024-11-24,Covaxin,COV-328,Bharat Biotech,Karnataka,195,184,175
+2024-11-25,Covaxin,COV-329,Bharat Biotech,Delhi,212,226,189
+2024-11-26,Covaxin,COV-330,Bharat Biotech,Kerala,214,218,211
+2024-11-27,Covaxin,COV-331,Bharat Biotech,Delhi,238,218,188
+2024-11-28,Covaxin,COV-332,Bharat Biotech,Kerala,240,264,234
+2024-11-29,Covaxin,COV-333,Bharat Biotech,Karnataka,222,232,213
+2024-11-30,Covaxin,COV-334,Bharat Biotech,Tamil Nadu,231,220,211
+2024-12-01,Covaxin,COV-335,Bharat Biotech,Karnataka,222,252,222
+2024-12-02,Covaxin,COV-336,Bharat Biotech,Delhi,262,286,258
+2024-12-03,Covaxin,COV-337,Bharat Biotech,Maharashtra,259,261,248
+2024-12-04,Covaxin,COV-338,Bharat Biotech,Karnataka,253,248,208
+2024-12-05,Covaxin,COV-339,Bharat Biotech,Karnataka,268,285,238
+2024-12-06,Covaxin,COV-340,Bharat Biotech,Tamil Nadu,248,271,258
+2024-12-07,Covaxin,COV-341,Bharat Biotech,Maharashtra,227,234,184
+2024-12-08,Covaxin,COV-342,Bharat Biotech,Karnataka,205,199,187
+2024-12-09,Covaxin,COV-343,Bharat Biotech,Maharashtra,235,263,216
+2024-12-10,Covaxin,COV-344,Bharat Biotech,Karnataka,220,247,244
+2024-12-11,Covaxin,COV-345,Bharat Biotech,Kerala,236,240,194
+2024-12-12,Covaxin,COV-346,Bharat Biotech,Karnataka,221,203,189
+2024-12-13,Covaxin,COV-347,Bharat Biotech,Delhi,191,179,165
+2024-12-14,Covaxin,COV-348,Bharat Biotech,Maharashtra,202,226,216
+2024-12-15,Covaxin,COV-349,Bharat Biotech,Karnataka,180,202,163
+2024-12-16,Covaxin,COV-350,Bharat Biotech,Tamil Nadu,188,177,129
+2024-12-17,Covaxin,COV-351,Bharat Biotech,Kerala,198,180,178
+2024-12-18,Covaxin,COV-352,Bharat Biotech,Maharashtra,213,238,220
+2024-12-19,Covaxin,COV-353,Bharat Biotech,Delhi,208,193,150
+2024-12-20,Covaxin,COV-354,Bharat Biotech,Delhi,188,179,179
+2024-12-21,Covaxin,COV-355,Bharat Biotech,Kerala,174,187,179
+2024-12-22,Covaxin,COV-356,Bharat Biotech,Maharashtra,174,186,183
+2024-12-23,Covaxin,COV-357,Bharat Biotech,Kerala,191,197,175
+2024-12-24,Covaxin,COV-358,Bharat Biotech,Tamil Nadu,207,206,199
+2024-12-25,Covaxin,COV-359,Bharat Biotech,Delhi,222,226,219
+2024-12-26,Covaxin,COV-360,Bharat Biotech,Delhi,249,269,242
+2024-12-27,Covaxin,COV-361,Bharat Biotech,Maharashtra,223,233,219
+2024-12-28,Covaxin,COV-362,Bharat Biotech,Delhi,214,217,180
+2024-12-29,Covaxin,COV-363,Bharat Biotech,Maharashtra,213,224,211
+2024-12-30,Covaxin,COV-364,Bharat Biotech,Delhi,259,259,215
+2024-01-01,Sputnik V,SPU-000,Dr. Reddy's,Kerala,148,157,147
+2024-01-02,Sputnik V,SPU-001,Dr. Reddy's,Tamil Nadu,152,153,108
+2024-01-03,Sputnik V,SPU-002,Dr. Reddy's,Delhi,187,206,177
+2024-01-04,Sputnik V,SPU-003,Dr. Reddy's,Maharashtra,193,182,140
+2024-01-05,Sputnik V,SPU-004,Dr. Reddy's,Tamil Nadu,159,145,101
+2024-01-06,Sputnik V,SPU-005,Dr. Reddy's,Karnataka,166,196,163
+2024-01-07,Sputnik V,SPU-006,Dr. Reddy's,Delhi,150,146,131
+2024-01-08,Sputnik V,SPU-007,Dr. Reddy's,Karnataka,185,212,210
+2024-01-09,Sputnik V,SPU-008,Dr. Reddy's,Karnataka,190,201,170
+2024-01-10,Sputnik V,SPU-009,Dr. Reddy's,Maharashtra,205,218,184
+2024-01-11,Sputnik V,SPU-010,Dr. Reddy's,Maharashtra,176,200,152
+2024-01-12,Sputnik V,SPU-011,Dr. Reddy's,Delhi,171,181,148
+2024-01-13,Sputnik V,SPU-012,Dr. Reddy's,Tamil Nadu,151,180,176
+2024-01-14,Sputnik V,SPU-013,Dr. Reddy's,Tamil Nadu,128,158,111
+2024-01-15,Sputnik V,SPU-014,Dr. Reddy's,Tamil Nadu,170,153,118
+2024-01-16,Sputnik V,SPU-015,Dr. Reddy's,Tamil Nadu,179,194,146
+2024-01-17,Sputnik V,SPU-016,Dr. Reddy's,Tamil Nadu,181,181,162
+2024-01-18,Sputnik V,SPU-017,Dr. Reddy's,Delhi,169,149,129
+2024-01-19,Sputnik V,SPU-018,Dr. Reddy's,Kerala,133,141,116
+2024-01-20,Sputnik V,SPU-019,Dr. Reddy's,Karnataka,125,151,123
+2024-01-21,Sputnik V,SPU-020,Dr. Reddy's,Kerala,123,107,59
+2024-01-22,Sputnik V,SPU-021,Dr. Reddy's,Delhi,133,161,127
+2024-01-23,Sputnik V,SPU-022,Dr. Reddy's,Maharashtra,141,133,105
+2024-01-24,Sputnik V,SPU-023,Dr. Reddy's,Maharashtra,158,138,111
+2024-01-25,Sputnik V,SPU-024,Dr. Reddy's,Delhi,146,160,110
+2024-01-26,Sputnik V,SPU-025,Dr. Reddy's,Kerala,121,121,76
+2024-01-27,Sputnik V,SPU-026,Dr. Reddy's,Karnataka,108,94,63
+2024-01-28,Sputnik V,SPU-027,Dr. Reddy's,Kerala,125,111,83
+2024-01-29,Sputnik V,SPU-028,Dr. Reddy's,Maharashtra,154,138,135
+2024-01-30,Sputnik V,SPU-029,Dr. Reddy's,Maharashtra,175,165,135
+2024-01-31,Sputnik V,SPU-030,Dr. Reddy's,Tamil Nadu,179,165,150
+2024-02-01,Sputnik V,SPU-031,Dr. Reddy's,Maharashtra,169,156,126
+2024-02-02,Sputnik V,SPU-032,Dr. Reddy's,Tamil Nadu,162,168,148
+2024-02-03,Sputnik V,SPU-033,Dr. Reddy's,Kerala,163,147,121
+2024-02-04,Sputnik V,SPU-034,Dr. Reddy's,Tamil Nadu,159,187,147
+2024-02-05,Sputnik V,SPU-035,Dr. Reddy's,Tamil Nadu,187,169,159
+2024-02-06,Sputnik V,SPU-036,Dr. Reddy's,Tamil Nadu,213,243,207
+2024-02-07,Sputnik V,SPU-037,Dr. Reddy's,Maharashtra,193,182,132
+2024-02-08,Sputnik V,SPU-038,Dr. Reddy's,Maharashtra,198,207,204
+2024-02-09,Sputnik V,SPU-039,Dr. Reddy's,Tamil Nadu,180,188,187
+2024-02-10,Sputnik V,SPU-040,Dr. Reddy's,Kerala,198,178,171
+2024-02-11,Sputnik V,SPU-041,Dr. Reddy's,Kerala,186,207,205
+2024-02-12,Sputnik V,SPU-042,Dr. Reddy's,Kerala,188,171,130
+2024-02-13,Sputnik V,SPU-043,Dr. Reddy's,Karnataka,184,178,132
+2024-02-14,Sputnik V,SPU-044,Dr. Reddy's,Karnataka,188,171,137
+2024-02-15,Sputnik V,SPU-045,Dr. Reddy's,Delhi,185,180,169
+2024-02-16,Sputnik V,SPU-046,Dr. Reddy's,Delhi,158,170,156
+2024-02-17,Sputnik V,SPU-047,Dr. Reddy's,Karnataka,126,110,84
+2024-02-18,Sputnik V,SPU-048,Dr. Reddy's,Tamil Nadu,130,126,99
+2024-02-19,Sputnik V,SPU-049,Dr. Reddy's,Karnataka,141,143,95
+2024-02-20,Sputnik V,SPU-050,Dr. Reddy's,Kerala,123,113,70
+2024-02-21,Sputnik V,SPU-051,Dr. Reddy's,Tamil Nadu,171,158,128
+2024-02-22,Sputnik V,SPU-052,Dr. Reddy's,Tamil Nadu,141,167,123
+2024-02-23,Sputnik V,SPU-053,Dr. Reddy's,Tamil Nadu,128,148,107
+2024-02-24,Sputnik V,SPU-054,Dr. Reddy's,Tamil Nadu,118,129,100
+2024-02-25,Sputnik V,SPU-055,Dr. Reddy's,Kerala,118,141,115
+2024-02-26,Sputnik V,SPU-056,Dr. Reddy's,Maharashtra,147,168,132
+2024-02-27,Sputnik V,SPU-057,Dr. Reddy's,Tamil Nadu,167,181,167
+2024-02-28,Sputnik V,SPU-058,Dr. Reddy's,Kerala,171,190,188
+2024-02-29,Sputnik V,SPU-059,Dr. Reddy's,Kerala,179,163,123
+2024-03-01,Sputnik V,SPU-060,Dr. Reddy's,Maharashtra,154,156,155
+2024-03-02,Sputnik V,SPU-061,Dr. Reddy's,Karnataka,143,159,112
+2024-03-03,Sputnik V,SPU-062,Dr. Reddy's,Karnataka,182,177,134
+2024-03-04,Sputnik V,SPU-063,Dr. Reddy's,Maharashtra,175,192,175
+2024-03-05,Sputnik V,SPU-064,Dr. Reddy's,Delhi,212,200,183
+2024-03-06,Sputnik V,SPU-065,Dr. Reddy's,Kerala,211,221,177
+2024-03-07,Sputnik V,SPU-066,Dr. Reddy's,Maharashtra,200,225,188
+2024-03-08,Sputnik V,SPU-067,Dr. Reddy's,Maharashtra,178,177,146
+2024-03-09,Sputnik V,SPU-068,Dr. Reddy's,Delhi,185,177,168
+2024-03-10,Sputnik V,SPU-069,Dr. Reddy's,Delhi,193,210,201
+2024-03-11,Sputnik V,SPU-070,Dr. Reddy's,Maharashtra,179,161,161
+2024-03-12,Sputnik V,SPU-071,Dr. Reddy's,Maharashtra,197,214,168
+2024-03-13,Sputnik V,SPU-072,Dr. Reddy's,Delhi,181,172,155
+2024-03-14,Sputnik V,SPU-073,Dr. Reddy's,Karnataka,176,163,115
+2024-03-15,Sputnik V,SPU-074,Dr. Reddy's,Tamil Nadu,172,191,172
+2024-03-16,Sputnik V,SPU-075,Dr. Reddy's,Tamil Nadu,130,133,106
+2024-03-17,Sputnik V,SPU-076,Dr. Reddy's,Tamil Nadu,140,137,98
+2024-03-18,Sputnik V,SPU-077,Dr. Reddy's,Tamil Nadu,136,166,119
+2024-03-19,Sputnik V,SPU-078,Dr. Reddy's,Delhi,179,194,192
+2024-03-20,Sputnik V,SPU-079,Dr. Reddy's,Delhi,151,155,114
+2024-03-21,Sputnik V,SPU-080,Dr. Reddy's,Karnataka,148,176,144
+2024-03-22,Sputnik V,SPU-081,Dr. Reddy's,Kerala,137,145,100
+2024-03-23,Sputnik V,SPU-082,Dr. Reddy's,Delhi,113,110,72
+2024-03-24,Sputnik V,SPU-083,Dr. Reddy's,Maharashtra,100,123,94
+2024-03-25,Sputnik V,SPU-084,Dr. Reddy's,Maharashtra,146,160,110
+2024-03-26,Sputnik V,SPU-085,Dr. Reddy's,Delhi,157,183,158
+2024-03-27,Sputnik V,SPU-086,Dr. Reddy's,Delhi,175,185,181
+2024-03-28,Sputnik V,SPU-087,Dr. Reddy's,Tamil Nadu,165,175,125
+2024-03-29,Sputnik V,SPU-088,Dr. Reddy's,Delhi,135,141,98
+2024-03-30,Sputnik V,SPU-089,Dr. Reddy's,Kerala,140,168,153
+2024-03-31,Sputnik V,SPU-090,Dr. Reddy's,Karnataka,144,150,101
+2024-04-01,Sputnik V,SPU-091,Dr. Reddy's,Karnataka,181,183,137
+2024-04-02,Sputnik V,SPU-092,Dr. Reddy's,Kerala,203,189,175
+2024-04-03,Sputnik V,SPU-093,Dr. Reddy's,Kerala,196,188,143
+2024-04-04,Sputnik V,SPU-094,Dr. Reddy's,Karnataka,186,187,168
+2024-04-05,Sputnik V,SPU-095,Dr. Reddy's,Kerala,191,206,182
+2024-04-06,Sputnik V,SPU-096,Dr. Reddy's,Tamil Nadu,185,172,139
+2024-04-07,Sputnik V,SPU-097,Dr. Reddy's,Tamil Nadu,174,175,168
+2024-04-08,Sputnik V,SPU-098,Dr. Reddy's,Delhi,172,202,162
+2024-04-09,Sputnik V,SPU-099,Dr. Reddy's,Karnataka,206,200,151
+2024-04-10,Sputnik V,SPU-100,Dr. Reddy's,Karnataka,195,224,200
+2024-04-11,Sputnik V,SPU-101,Dr. Reddy's,Delhi,202,229,218
+2024-04-12,Sputnik V,SPU-102,Dr. Reddy's,Maharashtra,177,181,138
+2024-04-13,Sputnik V,SPU-103,Dr. Reddy's,Karnataka,143,146,113
+2024-04-14,Sputnik V,SPU-104,Dr. Reddy's,Maharashtra,155,169,140
+2024-04-15,Sputnik V,SPU-105,Dr. Reddy's,Tamil Nadu,174,179,160
+2024-04-16,Sputnik V,SPU-106,Dr. Reddy's,Maharashtra,181,166,159
+2024-04-17,Sputnik V,SPU-107,Dr. Reddy's,Maharashtra,180,189,167
+2024-04-18,Sputnik V,SPU-108,Dr. Reddy's,Karnataka,155,174,161
+2024-04-19,Sputnik V,SPU-109,Dr. Reddy's,Maharashtra,150,180,141
+2024-04-20,Sputnik V,SPU-110,Dr. Reddy's,Tamil Nadu,125,127,93
+2024-04-21,Sputnik V,SPU-111,Dr. Reddy's,Tamil Nadu,130,125,94
+2024-04-22,Sputnik V,SPU-112,Dr. Reddy's,Karnataka,142,126,126
+2024-04-23,Sputnik V,SPU-113,Dr. Reddy's,Delhi,145,145,100
+2024-04-24,Sputnik V,SPU-114,Dr. Reddy's,Kerala,161,177,145
+2024-04-25,Sputnik V,SPU-115,Dr. Reddy's,Maharashtra,173,197,157
+2024-04-26,Sputnik V,SPU-116,Dr. Reddy's,Maharashtra,163,183,183
+2024-04-27,Sputnik V,SPU-117,Dr. Reddy's,Karnataka,116,140,135
+2024-04-28,Sputnik V,SPU-118,Dr. Reddy's,Delhi,145,168,140
+2024-04-29,Sputnik V,SPU-119,Dr. Reddy's,Tamil Nadu,143,133,83
+2024-04-30,Sputnik V,SPU-120,Dr. Reddy's,Delhi,171,153,108
+2024-05-01,Sputnik V,SPU-121,Dr. Reddy's,Karnataka,199,220,208
+2024-05-02,Sputnik V,SPU-122,Dr. Reddy's,Karnataka,178,176,160
+2024-05-03,Sputnik V,SPU-123,Dr. Reddy's,Karnataka,180,209,172
+2024-05-04,Sputnik V,SPU-124,Dr. Reddy's,Tamil Nadu,170,191,158
+2024-05-05,Sputnik V,SPU-125,Dr. Reddy's,Tamil Nadu,180,191,145
+2024-05-06,Sputnik V,SPU-126,Dr. Reddy's,Maharashtra,187,196,180
+2024-05-07,Sputnik V,SPU-127,Dr. Reddy's,Karnataka,209,224,188
+2024-05-08,Sputnik V,SPU-128,Dr. Reddy's,Karnataka,217,201,184
+2024-05-09,Sputnik V,SPU-129,Dr. Reddy's,Kerala,181,189,188
+2024-05-10,Sputnik V,SPU-130,Dr. Reddy's,Delhi,181,166,148
+2024-05-11,Sputnik V,SPU-131,Dr. Reddy's,Maharashtra,180,209,167
+2024-05-12,Sputnik V,SPU-132,Dr. Reddy's,Delhi,179,160,153
+2024-05-13,Sputnik V,SPU-133,Dr. Reddy's,Tamil Nadu,176,191,171
+2024-05-14,Sputnik V,SPU-134,Dr. Reddy's,Maharashtra,208,189,175
+2024-05-15,Sputnik V,SPU-135,Dr. Reddy's,Tamil Nadu,198,196,196
+2024-05-16,Sputnik V,SPU-136,Dr. Reddy's,Maharashtra,184,210,202
+2024-05-17,Sputnik V,SPU-137,Dr. Reddy's,Delhi,153,133,83
+2024-05-18,Sputnik V,SPU-138,Dr. Reddy's,Maharashtra,157,143,120
+2024-05-19,Sputnik V,SPU-139,Dr. Reddy's,Karnataka,118,130,95
+2024-05-20,Sputnik V,SPU-140,Dr. Reddy's,Tamil Nadu,135,144,142
+2024-05-21,Sputnik V,SPU-141,Dr. Reddy's,Kerala,151,156,148
+2024-05-22,Sputnik V,SPU-142,Dr. Reddy's,Delhi,157,167,119
+2024-05-23,Sputnik V,SPU-143,Dr. Reddy's,Karnataka,147,130,123
+2024-05-24,Sputnik V,SPU-144,Dr. Reddy's,Maharashtra,145,152,131
+2024-05-25,Sputnik V,SPU-145,Dr. Reddy's,Tamil Nadu,108,124,122
+2024-05-26,Sputnik V,SPU-146,Dr. Reddy's,Delhi,128,154,154
+2024-05-27,Sputnik V,SPU-147,Dr. Reddy's,Karnataka,152,142,116
+2024-05-28,Sputnik V,SPU-148,Dr. Reddy's,Maharashtra,174,167,119
+2024-05-29,Sputnik V,SPU-149,Dr. Reddy's,Delhi,174,169,123
+2024-05-30,Sputnik V,SPU-150,Dr. Reddy's,Delhi,178,162,138
+2024-05-31,Sputnik V,SPU-151,Dr. Reddy's,Tamil Nadu,170,189,163
+2024-06-01,Sputnik V,SPU-152,Dr. Reddy's,Kerala,179,177,135
+2024-06-02,Sputnik V,SPU-153,Dr. Reddy's,Delhi,153,174,130
+2024-06-03,Sputnik V,SPU-154,Dr. Reddy's,Tamil Nadu,196,183,145
+2024-06-04,Sputnik V,SPU-155,Dr. Reddy's,Kerala,194,189,143
+2024-06-05,Sputnik V,SPU-156,Dr. Reddy's,Kerala,206,214,186
+2024-06-06,Sputnik V,SPU-157,Dr. Reddy's,Tamil Nadu,218,200,153
+2024-06-07,Sputnik V,SPU-158,Dr. Reddy's,Tamil Nadu,197,196,177
+2024-06-08,Sputnik V,SPU-159,Dr. Reddy's,Delhi,175,190,189
+2024-06-09,Sputnik V,SPU-160,Dr. Reddy's,Tamil Nadu,186,177,139
+2024-06-10,Sputnik V,SPU-161,Dr. Reddy's,Tamil Nadu,194,197,173
+2024-06-11,Sputnik V,SPU-162,Dr. Reddy's,Maharashtra,195,215,200
+2024-06-12,Sputnik V,SPU-163,Dr. Reddy's,Karnataka,202,191,189
+2024-06-13,Sputnik V,SPU-164,Dr. Reddy's,Tamil Nadu,189,193,148
+2024-06-14,Sputnik V,SPU-165,Dr. Reddy's,Tamil Nadu,160,175,150
+2024-06-15,Sputnik V,SPU-166,Dr. Reddy's,Tamil Nadu,146,161,129
+2024-06-16,Sputnik V,SPU-167,Dr. Reddy's,Maharashtra,143,155,105
+2024-06-17,Sputnik V,SPU-168,Dr. Reddy's,Maharashtra,151,148,147
+2024-06-18,Sputnik V,SPU-169,Dr. Reddy's,Tamil Nadu,165,169,140
+2024-06-19,Sputnik V,SPU-170,Dr. Reddy's,Tamil Nadu,175,183,156
+2024-06-20,Sputnik V,SPU-171,Dr. Reddy's,Tamil Nadu,161,147,115
+2024-06-21,Sputnik V,SPU-172,Dr. Reddy's,Maharashtra,125,143,134
+2024-06-22,Sputnik V,SPU-173,Dr. Reddy's,Karnataka,114,111,105
+2024-06-23,Sputnik V,SPU-174,Dr. Reddy's,Kerala,144,127,113
+2024-06-24,Sputnik V,SPU-175,Dr. Reddy's,Tamil Nadu,136,138,89
+2024-06-25,Sputnik V,SPU-176,Dr. Reddy's,Tamil Nadu,152,150,117
+2024-06-26,Sputnik V,SPU-177,Dr. Reddy's,Maharashtra,164,150,133
+2024-06-27,Sputnik V,SPU-178,Dr. Reddy's,Tamil Nadu,157,179,177
+2024-06-28,Sputnik V,SPU-179,Dr. Reddy's,Karnataka,163,189,185
+2024-06-29,Sputnik V,SPU-180,Dr. Reddy's,Tamil Nadu,153,162,154
+2024-06-30,Sputnik V,SPU-181,Dr. Reddy's,Maharashtra,185,177,158
+2024-07-01,Sputnik V,SPU-182,Dr. Reddy's,Maharashtra,193,176,168
+2024-07-02,Sputnik V,SPU-183,Dr. Reddy's,Karnataka,197,189,141
+2024-07-03,Sputnik V,SPU-184,Dr. Reddy's,Kerala,216,232,208
+2024-07-04,Sputnik V,SPU-185,Dr. Reddy's,Kerala,200,215,168
+2024-07-05,Sputnik V,SPU-186,Dr. Reddy's,Maharashtra,177,169,169
+2024-07-06,Sputnik V,SPU-187,Dr. Reddy's,Kerala,191,172,131
+2024-07-07,Sputnik V,SPU-188,Dr. Reddy's,Delhi,182,200,190
+2024-07-08,Sputnik V,SPU-189,Dr. Reddy's,Kerala,198,217,168
+2024-07-09,Sputnik V,SPU-190,Dr. Reddy's,Kerala,203,228,218
+2024-07-10,Sputnik V,SPU-191,Dr. Reddy's,Tamil Nadu,203,230,188
+2024-07-11,Sputnik V,SPU-192,Dr. Reddy's,Delhi,206,225,201
+2024-07-12,Sputnik V,SPU-193,Dr. Reddy's,Delhi,180,179,162
+2024-07-13,Sputnik V,SPU-194,Dr. Reddy's,Karnataka,156,178,152
+2024-07-14,Sputnik V,SPU-195,Dr. Reddy's,Tamil Nadu,169,167,120
+2024-07-15,Sputnik V,SPU-196,Dr. Reddy's,Delhi,177,161,121
+2024-07-16,Sputnik V,SPU-197,Dr. Reddy's,Karnataka,166,172,172
+2024-07-17,Sputnik V,SPU-198,Dr. Reddy's,Tamil Nadu,163,182,166
+2024-07-18,Sputnik V,SPU-199,Dr. Reddy's,Maharashtra,163,180,140
+2024-07-19,Sputnik V,SPU-200,Dr. Reddy's,Maharashtra,167,150,100
+2024-07-20,Sputnik V,SPU-201,Dr. Reddy's,Kerala,115,141,136
+2024-07-21,Sputnik V,SPU-202,Dr. Reddy's,Tamil Nadu,141,170,145
+2024-07-22,Sputnik V,SPU-203,Dr. Reddy's,Tamil Nadu,141,140,112
+2024-07-23,Sputnik V,SPU-204,Dr. Reddy's,Tamil Nadu,158,169,142
+2024-07-24,Sputnik V,SPU-205,Dr. Reddy's,Kerala,163,162,152
+2024-07-25,Sputnik V,SPU-206,Dr. Reddy's,Kerala,161,153,127
+2024-07-26,Sputnik V,SPU-207,Dr. Reddy's,Tamil Nadu,139,142,130
+2024-07-27,Sputnik V,SPU-208,Dr. Reddy's,Tamil Nadu,137,131,94
+2024-07-28,Sputnik V,SPU-209,Dr. Reddy's,Delhi,147,157,142
+2024-07-29,Sputnik V,SPU-210,Dr. Reddy's,Karnataka,176,156,130
+2024-07-30,Sputnik V,SPU-211,Dr. Reddy's,Maharashtra,211,215,181
+2024-07-31,Sputnik V,SPU-212,Dr. Reddy's,Maharashtra,199,209,164
+2024-08-01,Sputnik V,SPU-213,Dr. Reddy's,Maharashtra,184,185,163
+2024-08-02,Sputnik V,SPU-214,Dr. Reddy's,Karnataka,166,149,103
+2024-08-03,Sputnik V,SPU-215,Dr. Reddy's,Karnataka,188,206,179
+2024-08-04,Sputnik V,SPU-216,Dr. Reddy's,Tamil Nadu,180,173,131
+2024-08-05,Sputnik V,SPU-217,Dr. Reddy's,Kerala,190,177,170
+2024-08-06,Sputnik V,SPU-218,Dr. Reddy's,Maharashtra,203,214,192
+2024-08-07,Sputnik V,SPU-219,Dr. Reddy's,Delhi,225,216,179
+2024-08-08,Sputnik V,SPU-220,Dr. Reddy's,Tamil Nadu,186,198,182
+2024-08-09,Sputnik V,SPU-221,Dr. Reddy's,Delhi,201,213,172
+2024-08-10,Sputnik V,SPU-222,Dr. Reddy's,Delhi,180,163,136
+2024-08-11,Sputnik V,SPU-223,Dr. Reddy's,Karnataka,175,159,146
+2024-08-12,Sputnik V,SPU-224,Dr. Reddy's,Kerala,168,161,149
+2024-08-13,Sputnik V,SPU-225,Dr. Reddy's,Karnataka,175,171,144
+2024-08-14,Sputnik V,SPU-226,Dr. Reddy's,Tamil Nadu,200,215,176
+2024-08-15,Sputnik V,SPU-227,Dr. Reddy's,Tamil Nadu,157,146,96
+2024-08-16,Sputnik V,SPU-228,Dr. Reddy's,Maharashtra,147,160,128
+2024-08-17,Sputnik V,SPU-229,Dr. Reddy's,Tamil Nadu,128,122,96
+2024-08-18,Sputnik V,SPU-230,Dr. Reddy's,Karnataka,147,147,109
+2024-08-19,Sputnik V,SPU-231,Dr. Reddy's,Tamil Nadu,157,163,149
+2024-08-20,Sputnik V,SPU-232,Dr. Reddy's,Karnataka,174,167,133
+2024-08-21,Sputnik V,SPU-233,Dr. Reddy's,Maharashtra,166,174,135
+2024-08-22,Sputnik V,SPU-234,Dr. Reddy's,Maharashtra,155,179,149
+2024-08-23,Sputnik V,SPU-235,Dr. Reddy's,Karnataka,142,155,124
+2024-08-24,Sputnik V,SPU-236,Dr. Reddy's,Maharashtra,128,123,101
+2024-08-25,Sputnik V,SPU-237,Dr. Reddy's,Karnataka,132,116,96
+2024-08-26,Sputnik V,SPU-238,Dr. Reddy's,Karnataka,165,177,157
+2024-08-27,Sputnik V,SPU-239,Dr. Reddy's,Maharashtra,189,170,156
+2024-08-28,Sputnik V,SPU-240,Dr. Reddy's,Maharashtra,199,203,155
+2024-08-29,Sputnik V,SPU-241,Dr. Reddy's,Delhi,186,193,163
+2024-08-30,Sputnik V,SPU-242,Dr. Reddy's,Karnataka,161,167,120
+2024-08-31,Sputnik V,SPU-243,Dr. Reddy's,Delhi,173,200,153
+2024-09-01,Sputnik V,SPU-244,Dr. Reddy's,Maharashtra,181,203,159
+2024-09-02,Sputnik V,SPU-245,Dr. Reddy's,Maharashtra,191,180,149
+2024-09-03,Sputnik V,SPU-246,Dr. Reddy's,Tamil Nadu,224,205,204
+2024-09-04,Sputnik V,SPU-247,Dr. Reddy's,Karnataka,223,215,181
+2024-09-05,Sputnik V,SPU-248,Dr. Reddy's,Maharashtra,210,191,175
+2024-09-06,Sputnik V,SPU-249,Dr. Reddy's,Maharashtra,206,222,201
+2024-09-07,Sputnik V,SPU-250,Dr. Reddy's,Maharashtra,168,162,129
+2024-09-08,Sputnik V,SPU-251,Dr. Reddy's,Karnataka,182,173,123
+2024-09-09,Sputnik V,SPU-252,Dr. Reddy's,Delhi,186,215,188
+2024-09-10,Sputnik V,SPU-253,Dr. Reddy's,Kerala,190,194,192
+2024-09-11,Sputnik V,SPU-254,Dr. Reddy's,Tamil Nadu,200,225,224
+2024-09-12,Sputnik V,SPU-255,Dr. Reddy's,Maharashtra,168,193,182
+2024-09-13,Sputnik V,SPU-256,Dr. Reddy's,Tamil Nadu,158,164,143
+2024-09-14,Sputnik V,SPU-257,Dr. Reddy's,Maharashtra,162,174,149
+2024-09-15,Sputnik V,SPU-258,Dr. Reddy's,Karnataka,149,157,156
+2024-09-16,Sputnik V,SPU-259,Dr. Reddy's,Kerala,147,139,106
+2024-09-17,Sputnik V,SPU-260,Dr. Reddy's,Tamil Nadu,156,171,148
+2024-09-18,Sputnik V,SPU-261,Dr. Reddy's,Tamil Nadu,160,142,139
+2024-09-19,Sputnik V,SPU-262,Dr. Reddy's,Maharashtra,162,154,149
+2024-09-20,Sputnik V,SPU-263,Dr. Reddy's,Kerala,144,164,116
+2024-09-21,Sputnik V,SPU-264,Dr. Reddy's,Maharashtra,130,147,123
+2024-09-22,Sputnik V,SPU-265,Dr. Reddy's,Delhi,122,138,90
+2024-09-23,Sputnik V,SPU-266,Dr. Reddy's,Kerala,154,164,125
+2024-09-24,Sputnik V,SPU-267,Dr. Reddy's,Tamil Nadu,178,175,137
+2024-09-25,Sputnik V,SPU-268,Dr. Reddy's,Karnataka,185,210,184
+2024-09-26,Sputnik V,SPU-269,Dr. Reddy's,Karnataka,182,209,195
+2024-09-27,Sputnik V,SPU-270,Dr. Reddy's,Karnataka,168,194,183
+2024-09-28,Sputnik V,SPU-271,Dr. Reddy's,Karnataka,173,171,143
+2024-09-29,Sputnik V,SPU-272,Dr. Reddy's,Maharashtra,176,190,166
+2024-09-30,Sputnik V,SPU-273,Dr. Reddy's,Kerala,196,200,190
+2024-10-01,Sputnik V,SPU-274,Dr. Reddy's,Karnataka,214,221,197
+2024-10-02,Sputnik V,SPU-275,Dr. Reddy's,Karnataka,218,242,210
+2024-10-03,Sputnik V,SPU-276,Dr. Reddy's,Tamil Nadu,231,228,209
+2024-10-04,Sputnik V,SPU-277,Dr. Reddy's,Karnataka,201,213,205
+2024-10-05,Sputnik V,SPU-278,Dr. Reddy's,Delhi,186,179,158
+2024-10-06,Sputnik V,SPU-279,Dr. Reddy's,Maharashtra,190,217,188
+2024-10-07,Sputnik V,SPU-280,Dr. Reddy's,Delhi,217,222,178
+2024-10-08,Sputnik V,SPU-281,Dr. Reddy's,Delhi,223,241,226
+2024-10-09,Sputnik V,SPU-282,Dr. Reddy's,Kerala,236,254,213
+2024-10-10,Sputnik V,SPU-283,Dr. Reddy's,Tamil Nadu,213,229,213
+2024-10-11,Sputnik V,SPU-284,Dr. Reddy's,Maharashtra,166,170,157
+2024-10-12,Sputnik V,SPU-285,Dr. Reddy's,Maharashtra,139,166,136
+2024-10-13,Sputnik V,SPU-286,Dr. Reddy's,Maharashtra,159,141,139
+2024-10-14,Sputnik V,SPU-287,Dr. Reddy's,Maharashtra,161,143,112
+2024-10-15,Sputnik V,SPU-288,Dr. Reddy's,Delhi,171,179,155
+2024-10-16,Sputnik V,SPU-289,Dr. Reddy's,Delhi,188,198,191
+2024-10-17,Sputnik V,SPU-290,Dr. Reddy's,Maharashtra,170,188,177
+2024-10-18,Sputnik V,SPU-291,Dr. Reddy's,Delhi,148,166,126
+2024-10-19,Sputnik V,SPU-292,Dr. Reddy's,Karnataka,135,125,106
+2024-10-20,Sputnik V,SPU-293,Dr. Reddy's,Maharashtra,119,140,104
+2024-10-21,Sputnik V,SPU-294,Dr. Reddy's,Karnataka,160,159,125
+2024-10-22,Sputnik V,SPU-295,Dr. Reddy's,Kerala,166,146,110
+2024-10-23,Sputnik V,SPU-296,Dr. Reddy's,Kerala,184,192,161
+2024-10-24,Sputnik V,SPU-297,Dr. Reddy's,Delhi,176,189,186
+2024-10-25,Sputnik V,SPU-298,Dr. Reddy's,Karnataka,158,141,117
+2024-10-26,Sputnik V,SPU-299,Dr. Reddy's,Kerala,172,197,197
+2024-10-27,Sputnik V,SPU-300,Dr. Reddy's,Tamil Nadu,153,150,130
+2024-10-28,Sputnik V,SPU-301,Dr. Reddy's,Tamil Nadu,185,170,159
+2024-10-29,Sputnik V,SPU-302,Dr. Reddy's,Tamil Nadu,208,227,212
+2024-10-30,Sputnik V,SPU-303,Dr. Reddy's,Delhi,217,227,224
+2024-10-31,Sputnik V,SPU-304,Dr. Reddy's,Delhi,200,207,192
+2024-11-01,Sputnik V,SPU-305,Dr. Reddy's,Tamil Nadu,180,198,178
+2024-11-02,Sputnik V,SPU-306,Dr. Reddy's,Maharashtra,179,196,186
+2024-11-03,Sputnik V,SPU-307,Dr. Reddy's,Karnataka,217,206,193
+2024-11-04,Sputnik V,SPU-308,Dr. Reddy's,Kerala,223,243,218
+2024-11-05,Sputnik V,SPU-309,Dr. Reddy's,Delhi,203,190,173
+2024-11-06,Sputnik V,SPU-310,Dr. Reddy's,Kerala,257,269,252
+2024-11-07,Sputnik V,SPU-311,Dr. Reddy's,Kerala,224,207,205
+2024-11-08,Sputnik V,SPU-312,Dr. Reddy's,Karnataka,196,180,134
+2024-11-09,Sputnik V,SPU-313,Dr. Reddy's,Maharashtra,182,191,165
+2024-11-10,Sputnik V,SPU-314,Dr. Reddy's,Delhi,177,188,147
+2024-11-11,Sputnik V,SPU-315,Dr. Reddy's,Delhi,173,183,180
+2024-11-12,Sputnik V,SPU-316,Dr. Reddy's,Karnataka,212,215,183
+2024-11-13,Sputnik V,SPU-317,Dr. Reddy's,Kerala,172,154,117
+2024-11-14,Sputnik V,SPU-318,Dr. Reddy's,Karnataka,194,219,179
+2024-11-15,Sputnik V,SPU-319,Dr. Reddy's,Karnataka,157,186,167
+2024-11-16,Sputnik V,SPU-320,Dr. Reddy's,Maharashtra,129,147,99
+2024-11-17,Sputnik V,SPU-321,Dr. Reddy's,Tamil Nadu,142,126,91
+2024-11-18,Sputnik V,SPU-322,Dr. Reddy's,Karnataka,154,139,95
+2024-11-19,Sputnik V,SPU-323,Dr. Reddy's,Delhi,182,194,158
+2024-11-20,Sputnik V,SPU-324,Dr. Reddy's,Delhi,178,185,184
+2024-11-21,Sputnik V,SPU-325,Dr. Reddy's,Delhi,162,171,149
+2024-11-22,Sputnik V,SPU-326,Dr. Reddy's,Kerala,132,115,97
+2024-11-23,Sputnik V,SPU-327,Dr. Reddy's,Maharashtra,150,168,140
+2024-11-24,Sputnik V,SPU-328,Dr. Reddy's,Karnataka,146,143,101
+2024-11-25,Sputnik V,SPU-329,Dr. Reddy's,Kerala,165,154,111
+2024-11-26,Sputnik V,SPU-330,Dr. Reddy's,Maharashtra,212,209,203
+2024-11-27,Sputnik V,SPU-331,Dr. Reddy's,Delhi,196,176,141
+2024-11-28,Sputnik V,SPU-332,Dr. Reddy's,Maharashtra,190,217,171
+2024-11-29,Sputnik V,SPU-333,Dr. Reddy's,Karnataka,194,216,194
+2024-11-30,Sputnik V,SPU-334,Dr. Reddy's,Karnataka,194,204,199
+2024-12-01,Sputnik V,SPU-335,Dr. Reddy's,Maharashtra,209,193,169
+2024-12-02,Sputnik V,SPU-336,Dr. Reddy's,Karnataka,213,235,214
+2024-12-03,Sputnik V,SPU-337,Dr. Reddy's,Delhi,237,246,199
+2024-12-04,Sputnik V,SPU-338,Dr. Reddy's,Delhi,229,236,197
+2024-12-05,Sputnik V,SPU-339,Dr. Reddy's,Maharashtra,212,203,185
+2024-12-06,Sputnik V,SPU-340,Dr. Reddy's,Delhi,204,214,179
+2024-12-07,Sputnik V,SPU-341,Dr. Reddy's,Tamil Nadu,173,198,171
+2024-12-08,Sputnik V,SPU-342,Dr. Reddy's,Karnataka,182,207,170
+2024-12-09,Sputnik V,SPU-343,Dr. Reddy's,Karnataka,189,194,161
+2024-12-10,Sputnik V,SPU-344,Dr. Reddy's,Maharashtra,211,226,226
+2024-12-11,Sputnik V,SPU-345,Dr. Reddy's,Delhi,216,218,192
+2024-12-12,Sputnik V,SPU-346,Dr. Reddy's,Delhi,209,215,211
+2024-12-13,Sputnik V,SPU-347,Dr. Reddy's,Maharashtra,185,190,179
+2024-12-14,Sputnik V,SPU-348,Dr. Reddy's,Kerala,129,132,83
+2024-12-15,Sputnik V,SPU-349,Dr. Reddy's,Delhi,143,148,142
+2024-12-16,Sputnik V,SPU-350,Dr. Reddy's,Maharashtra,157,150,117
+2024-12-17,Sputnik V,SPU-351,Dr. Reddy's,Kerala,158,156,149
+2024-12-18,Sputnik V,SPU-352,Dr. Reddy's,Maharashtra,155,147,104
+2024-12-19,Sputnik V,SPU-353,Dr. Reddy's,Delhi,166,167,151
+2024-12-20,Sputnik V,SPU-354,Dr. Reddy's,Karnataka,160,188,151
+2024-12-21,Sputnik V,SPU-355,Dr. Reddy's,Maharashtra,143,172,123
+2024-12-22,Sputnik V,SPU-356,Dr. Reddy's,Tamil Nadu,151,163,144
+2024-12-23,Sputnik V,SPU-357,Dr. Reddy's,Maharashtra,181,179,168
+2024-12-24,Sputnik V,SPU-358,Dr. Reddy's,Delhi,196,180,151
+2024-12-25,Sputnik V,SPU-359,Dr. Reddy's,Tamil Nadu,197,193,167
+2024-12-26,Sputnik V,SPU-360,Dr. Reddy's,Kerala,189,211,189
+2024-12-27,Sputnik V,SPU-361,Dr. Reddy's,Karnataka,184,184,183
+2024-12-28,Sputnik V,SPU-362,Dr. Reddy's,Kerala,183,176,167
+2024-12-29,Sputnik V,SPU-363,Dr. Reddy's,Maharashtra,199,220,220
+2024-12-30,Sputnik V,SPU-364,Dr. Reddy's,Kerala,186,198,158
+2024-01-01,Pfizer,PFI-000,Pfizer India,Kerala,182,192,175
+2024-01-02,Pfizer,PFI-001,Pfizer India,Delhi,203,189,160
+2024-01-03,Pfizer,PFI-002,Pfizer India,Delhi,204,227,207
+2024-01-04,Pfizer,PFI-003,Pfizer India,Kerala,199,179,142
+2024-01-05,Pfizer,PFI-004,Pfizer India,Delhi,185,182,164
+2024-01-06,Pfizer,PFI-005,Pfizer India,Maharashtra,203,225,187
+2024-01-07,Pfizer,PFI-006,Pfizer India,Karnataka,213,212,177
+2024-01-08,Pfizer,PFI-007,Pfizer India,Maharashtra,207,192,186
+2024-01-09,Pfizer,PFI-008,Pfizer India,Delhi,215,208,158
+2024-01-10,Pfizer,PFI-009,Pfizer India,Delhi,224,223,187
+2024-01-11,Pfizer,PFI-010,Pfizer India,Karnataka,224,234,234
+2024-01-12,Pfizer,PFI-011,Pfizer India,Delhi,202,217,204
+2024-01-13,Pfizer,PFI-012,Pfizer India,Tamil Nadu,169,178,167
+2024-01-14,Pfizer,PFI-013,Pfizer India,Kerala,165,151,115
+2024-01-15,Pfizer,PFI-014,Pfizer India,Maharashtra,169,191,184
+2024-01-16,Pfizer,PFI-015,Pfizer India,Karnataka,200,224,184
+2024-01-17,Pfizer,PFI-016,Pfizer India,Kerala,187,177,140
+2024-01-18,Pfizer,PFI-017,Pfizer India,Delhi,162,164,150
+2024-01-19,Pfizer,PFI-018,Pfizer India,Tamil Nadu,158,139,99
+2024-01-20,Pfizer,PFI-019,Pfizer India,Maharashtra,139,145,120
+2024-01-21,Pfizer,PFI-020,Pfizer India,Delhi,134,119,119
+2024-01-22,Pfizer,PFI-021,Pfizer India,Karnataka,145,142,111
+2024-01-23,Pfizer,PFI-022,Pfizer India,Kerala,171,188,175
+2024-01-24,Pfizer,PFI-023,Pfizer India,Maharashtra,173,184,157
+2024-01-25,Pfizer,PFI-024,Pfizer India,Karnataka,172,187,154
+2024-01-26,Pfizer,PFI-025,Pfizer India,Maharashtra,138,141,93
+2024-01-27,Pfizer,PFI-026,Pfizer India,Maharashtra,148,168,149
+2024-01-28,Pfizer,PFI-027,Pfizer India,Maharashtra,140,158,144
+2024-01-29,Pfizer,PFI-028,Pfizer India,Delhi,172,155,139
+2024-01-30,Pfizer,PFI-029,Pfizer India,Delhi,196,181,164
+2024-01-31,Pfizer,PFI-030,Pfizer India,Kerala,209,205,178
+2024-02-01,Pfizer,PFI-031,Pfizer India,Karnataka,201,192,178
+2024-02-02,Pfizer,PFI-032,Pfizer India,Maharashtra,168,167,120
+2024-02-03,Pfizer,PFI-033,Pfizer India,Delhi,184,212,176
+2024-02-04,Pfizer,PFI-034,Pfizer India,Karnataka,181,161,114
+2024-02-05,Pfizer,PFI-035,Pfizer India,Kerala,194,220,220
+2024-02-06,Pfizer,PFI-036,Pfizer India,Kerala,232,223,192
+2024-02-07,Pfizer,PFI-037,Pfizer India,Kerala,225,244,199
+2024-02-08,Pfizer,PFI-038,Pfizer India,Karnataka,214,243,229
+2024-02-09,Pfizer,PFI-039,Pfizer India,Delhi,211,233,188
+2024-02-10,Pfizer,PFI-040,Pfizer India,Delhi,184,173,161
+2024-02-11,Pfizer,PFI-041,Pfizer India,Tamil Nadu,186,173,167
+2024-02-12,Pfizer,PFI-042,Pfizer India,Tamil Nadu,191,187,151
+2024-02-13,Pfizer,PFI-043,Pfizer India,Kerala,214,220,213
+2024-02-14,Pfizer,PFI-044,Pfizer India,Delhi,200,196,149
+2024-02-15,Pfizer,PFI-045,Pfizer India,Kerala,181,179,142
+2024-02-16,Pfizer,PFI-046,Pfizer India,Delhi,155,145,143
+2024-02-17,Pfizer,PFI-047,Pfizer India,Kerala,124,141,122
+2024-02-18,Pfizer,PFI-048,Pfizer India,Kerala,141,140,131
+2024-02-19,Pfizer,PFI-049,Pfizer India,Maharashtra,144,142,134
+2024-02-20,Pfizer,PFI-050,Pfizer India,Tamil Nadu,171,162,137
+2024-02-21,Pfizer,PFI-051,Pfizer India,Kerala,158,158,115
+2024-02-22,Pfizer,PFI-052,Pfizer India,Maharashtra,150,140,117
+2024-02-23,Pfizer,PFI-053,Pfizer India,Kerala,146,140,98
+2024-02-24,Pfizer,PFI-054,Pfizer India,Maharashtra,136,154,104
+2024-02-25,Pfizer,PFI-055,Pfizer India,Kerala,138,159,145
+2024-02-26,Pfizer,PFI-056,Pfizer India,Delhi,160,169,124
+2024-02-27,Pfizer,PFI-057,Pfizer India,Delhi,180,190,148
+2024-02-28,Pfizer,PFI-058,Pfizer India,Tamil Nadu,184,195,195
+2024-02-29,Pfizer,PFI-059,Pfizer India,Maharashtra,197,209,203
+2024-03-01,Pfizer,PFI-060,Pfizer India,Delhi,171,200,172
+2024-03-02,Pfizer,PFI-061,Pfizer India,Delhi,181,164,161
+2024-03-03,Pfizer,PFI-062,Pfizer India,Maharashtra,188,190,173
+2024-03-04,Pfizer,PFI-063,Pfizer India,Karnataka,190,187,170
+2024-03-05,Pfizer,PFI-064,Pfizer India,Kerala,225,225,184
+2024-03-06,Pfizer,PFI-065,Pfizer India,Tamil Nadu,216,228,198
+2024-03-07,Pfizer,PFI-066,Pfizer India,Kerala,216,221,177
+2024-03-08,Pfizer,PFI-067,Pfizer India,Delhi,207,203,203
+2024-03-09,Pfizer,PFI-068,Pfizer India,Maharashtra,195,188,146
+2024-03-10,Pfizer,PFI-069,Pfizer India,Karnataka,197,221,208
+2024-03-11,Pfizer,PFI-070,Pfizer India,Kerala,192,207,172
+2024-03-12,Pfizer,PFI-071,Pfizer India,Tamil Nadu,221,233,192
+2024-03-13,Pfizer,PFI-072,Pfizer India,Tamil Nadu,226,211,180
+2024-03-14,Pfizer,PFI-073,Pfizer India,Delhi,183,198,181
+2024-03-15,Pfizer,PFI-074,Pfizer India,Tamil Nadu,168,189,178
+2024-03-16,Pfizer,PFI-075,Pfizer India,Maharashtra,165,163,115
+2024-03-17,Pfizer,PFI-076,Pfizer India,Tamil Nadu,146,133,111
+2024-03-18,Pfizer,PFI-077,Pfizer India,Kerala,171,184,144
+2024-03-19,Pfizer,PFI-078,Pfizer India,Maharashtra,178,160,126
+2024-03-20,Pfizer,PFI-079,Pfizer India,Kerala,178,203,180
+2024-03-21,Pfizer,PFI-080,Pfizer India,Delhi,163,159,146
+2024-03-22,Pfizer,PFI-081,Pfizer India,Maharashtra,152,181,132
+2024-03-23,Pfizer,PFI-082,Pfizer India,Kerala,129,126,85
+2024-03-24,Pfizer,PFI-083,Pfizer India,Maharashtra,131,154,108
+2024-03-25,Pfizer,PFI-084,Pfizer India,Karnataka,134,133,113
+2024-03-26,Pfizer,PFI-085,Pfizer India,Karnataka,170,155,149
+2024-03-27,Pfizer,PFI-086,Pfizer India,Maharashtra,174,154,109
+2024-03-28,Pfizer,PFI-087,Pfizer India,Maharashtra,176,200,184
+2024-03-29,Pfizer,PFI-088,Pfizer India,Kerala,162,183,156
+2024-03-30,Pfizer,PFI-089,Pfizer India,Karnataka,163,188,146
+2024-03-31,Pfizer,PFI-090,Pfizer India,Tamil Nadu,164,155,117
+2024-04-01,Pfizer,PFI-091,Pfizer India,Kerala,187,167,119
+2024-04-02,Pfizer,PFI-092,Pfizer India,Karnataka,217,223,193
+2024-04-03,Pfizer,PFI-093,Pfizer India,Delhi,206,220,180
+2024-04-04,Pfizer,PFI-094,Pfizer India,Kerala,219,216,210
+2024-04-05,Pfizer,PFI-095,Pfizer India,Kerala,217,244,213
+2024-04-06,Pfizer,PFI-096,Pfizer India,Maharashtra,197,189,143
+2024-04-07,Pfizer,PFI-097,Pfizer India,Karnataka,214,207,207
+2024-04-08,Pfizer,PFI-098,Pfizer India,Karnataka,222,211,196
+2024-04-09,Pfizer,PFI-099,Pfizer India,Tamil Nadu,227,224,194
+2024-04-10,Pfizer,PFI-100,Pfizer India,Karnataka,221,223,198
+2024-04-11,Pfizer,PFI-101,Pfizer India,Kerala,223,242,228
+2024-04-12,Pfizer,PFI-102,Pfizer India,Karnataka,187,192,152
+2024-04-13,Pfizer,PFI-103,Pfizer India,Kerala,164,183,170
+2024-04-14,Pfizer,PFI-104,Pfizer India,Tamil Nadu,154,170,151
+2024-04-15,Pfizer,PFI-105,Pfizer India,Maharashtra,188,170,167
+2024-04-16,Pfizer,PFI-106,Pfizer India,Maharashtra,205,227,201
+2024-04-17,Pfizer,PFI-107,Pfizer India,Delhi,203,225,181
+2024-04-18,Pfizer,PFI-108,Pfizer India,Kerala,185,176,142
+2024-04-19,Pfizer,PFI-109,Pfizer India,Kerala,156,171,124
+2024-04-20,Pfizer,PFI-110,Pfizer India,Kerala,129,128,122
+2024-04-21,Pfizer,PFI-111,Pfizer India,Karnataka,157,185,171
+2024-04-22,Pfizer,PFI-112,Pfizer India,Maharashtra,145,151,117
+2024-04-23,Pfizer,PFI-113,Pfizer India,Maharashtra,158,160,110
+2024-04-24,Pfizer,PFI-114,Pfizer India,Tamil Nadu,182,189,163
+2024-04-25,Pfizer,PFI-115,Pfizer India,Karnataka,163,189,148
+2024-04-26,Pfizer,PFI-116,Pfizer India,Kerala,163,145,104
+2024-04-27,Pfizer,PFI-117,Pfizer India,Maharashtra,155,181,172
+2024-04-28,Pfizer,PFI-118,Pfizer India,Maharashtra,155,141,137
+2024-04-29,Pfizer,PFI-119,Pfizer India,Delhi,178,199,170
+2024-04-30,Pfizer,PFI-120,Pfizer India,Karnataka,203,223,180
+2024-05-01,Pfizer,PFI-121,Pfizer India,Tamil Nadu,218,201,175
+2024-05-02,Pfizer,PFI-122,Pfizer India,Maharashtra,203,215,204
+2024-05-03,Pfizer,PFI-123,Pfizer India,Maharashtra,196,178,161
+2024-05-04,Pfizer,PFI-124,Pfizer India,Delhi,187,212,197
+2024-05-05,Pfizer,PFI-125,Pfizer India,Maharashtra,196,226,218
+2024-05-06,Pfizer,PFI-126,Pfizer India,Maharashtra,192,197,157
+2024-05-07,Pfizer,PFI-127,Pfizer India,Karnataka,241,249,235
+2024-05-08,Pfizer,PFI-128,Pfizer India,Maharashtra,232,258,256
+2024-05-09,Pfizer,PFI-129,Pfizer India,Kerala,243,241,192
+2024-05-10,Pfizer,PFI-130,Pfizer India,Delhi,208,210,186
+2024-05-11,Pfizer,PFI-131,Pfizer India,Tamil Nadu,180,206,178
+2024-05-12,Pfizer,PFI-132,Pfizer India,Tamil Nadu,197,216,174
+2024-05-13,Pfizer,PFI-133,Pfizer India,Maharashtra,204,188,169
+2024-05-14,Pfizer,PFI-134,Pfizer India,Karnataka,209,202,197
+2024-05-15,Pfizer,PFI-135,Pfizer India,Kerala,192,217,215
+2024-05-16,Pfizer,PFI-136,Pfizer India,Kerala,184,179,155
+2024-05-17,Pfizer,PFI-137,Pfizer India,Tamil Nadu,151,147,113
+2024-05-18,Pfizer,PFI-138,Pfizer India,Delhi,155,139,98
+2024-05-19,Pfizer,PFI-139,Pfizer India,Karnataka,152,159,131
+2024-05-20,Pfizer,PFI-140,Pfizer India,Maharashtra,156,152,106
+2024-05-21,Pfizer,PFI-141,Pfizer India,Maharashtra,171,155,114
+2024-05-22,Pfizer,PFI-142,Pfizer India,Kerala,188,180,158
+2024-05-23,Pfizer,PFI-143,Pfizer India,Maharashtra,154,138,90
+2024-05-24,Pfizer,PFI-144,Pfizer India,Kerala,152,164,129
+2024-05-25,Pfizer,PFI-145,Pfizer India,Delhi,141,133,108
+2024-05-26,Pfizer,PFI-146,Pfizer India,Kerala,163,147,105
+2024-05-27,Pfizer,PFI-147,Pfizer India,Karnataka,173,192,145
+2024-05-28,Pfizer,PFI-148,Pfizer India,Kerala,190,201,183
+2024-05-29,Pfizer,PFI-149,Pfizer India,Delhi,209,236,219
+2024-05-30,Pfizer,PFI-150,Pfizer India,Kerala,193,206,156
+2024-05-31,Pfizer,PFI-151,Pfizer India,Delhi,176,184,145
+2024-06-01,Pfizer,PFI-152,Pfizer India,Maharashtra,170,176,127
+2024-06-02,Pfizer,PFI-153,Pfizer India,Delhi,199,202,177
+2024-06-03,Pfizer,PFI-154,Pfizer India,Tamil Nadu,217,239,198
+2024-06-04,Pfizer,PFI-155,Pfizer India,Karnataka,235,259,254
+2024-06-05,Pfizer,PFI-156,Pfizer India,Maharashtra,223,220,219
+2024-06-06,Pfizer,PFI-157,Pfizer India,Kerala,226,225,202
+2024-06-07,Pfizer,PFI-158,Pfizer India,Tamil Nadu,196,214,168
+2024-06-08,Pfizer,PFI-159,Pfizer India,Delhi,190,215,211
+2024-06-09,Pfizer,PFI-160,Pfizer India,Karnataka,197,186,145
+2024-06-10,Pfizer,PFI-161,Pfizer India,Tamil Nadu,215,222,174
+2024-06-11,Pfizer,PFI-162,Pfizer India,Karnataka,227,231,212
+2024-06-12,Pfizer,PFI-163,Pfizer India,Delhi,221,237,224
+2024-06-13,Pfizer,PFI-164,Pfizer India,Kerala,207,204,170
+2024-06-14,Pfizer,PFI-165,Pfizer India,Tamil Nadu,176,157,111
+2024-06-15,Pfizer,PFI-166,Pfizer India,Maharashtra,162,166,160
+2024-06-16,Pfizer,PFI-167,Pfizer India,Karnataka,160,174,162
+2024-06-17,Pfizer,PFI-168,Pfizer India,Kerala,182,206,188
+2024-06-18,Pfizer,PFI-169,Pfizer India,Delhi,167,163,118
+2024-06-19,Pfizer,PFI-170,Pfizer India,Tamil Nadu,189,202,199
+2024-06-20,Pfizer,PFI-171,Pfizer India,Maharashtra,165,159,151
+2024-06-21,Pfizer,PFI-172,Pfizer India,Tamil Nadu,149,170,156
+2024-06-22,Pfizer,PFI-173,Pfizer India,Maharashtra,128,135,99
+2024-06-23,Pfizer,PFI-174,Pfizer India,Tamil Nadu,130,152,144
+2024-06-24,Pfizer,PFI-175,Pfizer India,Kerala,169,183,155
+2024-06-25,Pfizer,PFI-176,Pfizer India,Delhi,194,200,159
+2024-06-26,Pfizer,PFI-177,Pfizer India,Delhi,202,189,139
+2024-06-27,Pfizer,PFI-178,Pfizer India,Tamil Nadu,174,160,147
+2024-06-28,Pfizer,PFI-179,Pfizer India,Tamil Nadu,172,189,172
+2024-06-29,Pfizer,PFI-180,Pfizer India,Karnataka,155,177,174
+2024-06-30,Pfizer,PFI-181,Pfizer India,Maharashtra,179,169,143
+2024-07-01,Pfizer,PFI-182,Pfizer India,Delhi,183,168,168
+2024-07-02,Pfizer,PFI-183,Pfizer India,Karnataka,213,225,224
+2024-07-03,Pfizer,PFI-184,Pfizer India,Delhi,235,261,257
+2024-07-04,Pfizer,PFI-185,Pfizer India,Kerala,232,255,231
+2024-07-05,Pfizer,PFI-186,Pfizer India,Karnataka,225,248,238
+2024-07-06,Pfizer,PFI-187,Pfizer India,Kerala,190,191,187
+2024-07-07,Pfizer,PFI-188,Pfizer India,Delhi,212,221,208
+2024-07-08,Pfizer,PFI-189,Pfizer India,Tamil Nadu,217,219,187
+2024-07-09,Pfizer,PFI-190,Pfizer India,Delhi,238,245,241
+2024-07-10,Pfizer,PFI-191,Pfizer India,Delhi,250,278,256
+2024-07-11,Pfizer,PFI-192,Pfizer India,Tamil Nadu,221,250,223
+2024-07-12,Pfizer,PFI-193,Pfizer India,Tamil Nadu,202,198,153
+2024-07-13,Pfizer,PFI-194,Pfizer India,Maharashtra,166,177,168
+2024-07-14,Pfizer,PFI-195,Pfizer India,Maharashtra,168,189,181
+2024-07-15,Pfizer,PFI-196,Pfizer India,Kerala,188,176,160
+2024-07-16,Pfizer,PFI-197,Pfizer India,Delhi,183,179,150
+2024-07-17,Pfizer,PFI-198,Pfizer India,Tamil Nadu,188,196,191
+2024-07-18,Pfizer,PFI-199,Pfizer India,Kerala,180,189,183
+2024-07-19,Pfizer,PFI-200,Pfizer India,Karnataka,174,174,156
+2024-07-20,Pfizer,PFI-201,Pfizer India,Tamil Nadu,161,146,102
+2024-07-21,Pfizer,PFI-202,Pfizer India,Kerala,152,146,124
+2024-07-22,Pfizer,PFI-203,Pfizer India,Kerala,163,160,139
+2024-07-23,Pfizer,PFI-204,Pfizer India,Tamil Nadu,176,181,176
+2024-07-24,Pfizer,PFI-205,Pfizer India,Karnataka,188,174,149
+2024-07-25,Pfizer,PFI-206,Pfizer India,Tamil Nadu,181,194,183
+2024-07-26,Pfizer,PFI-207,Pfizer India,Maharashtra,166,175,138
+2024-07-27,Pfizer,PFI-208,Pfizer India,Maharashtra,161,174,166
+2024-07-28,Pfizer,PFI-209,Pfizer India,Maharashtra,188,181,163
+2024-07-29,Pfizer,PFI-210,Pfizer India,Kerala,203,216,177
+2024-07-30,Pfizer,PFI-211,Pfizer India,Delhi,217,228,204
+2024-07-31,Pfizer,PFI-212,Pfizer India,Maharashtra,221,230,213
+2024-08-01,Pfizer,PFI-213,Pfizer India,Maharashtra,231,239,198
+2024-08-02,Pfizer,PFI-214,Pfizer India,Maharashtra,204,197,163
+2024-08-03,Pfizer,PFI-215,Pfizer India,Kerala,220,223,207
+2024-08-04,Pfizer,PFI-216,Pfizer India,Karnataka,214,220,188
+2024-08-05,Pfizer,PFI-217,Pfizer India,Kerala,223,214,213
+2024-08-06,Pfizer,PFI-218,Pfizer India,Delhi,236,250,238
+2024-08-07,Pfizer,PFI-219,Pfizer India,Karnataka,241,239,209
+2024-08-08,Pfizer,PFI-220,Pfizer India,Delhi,245,275,270
+2024-08-09,Pfizer,PFI-221,Pfizer India,Tamil Nadu,210,205,156
+2024-08-10,Pfizer,PFI-222,Pfizer India,Tamil Nadu,177,186,152
+2024-08-11,Pfizer,PFI-223,Pfizer India,Delhi,195,178,139
+2024-08-12,Pfizer,PFI-224,Pfizer India,Karnataka,206,213,177
+2024-08-13,Pfizer,PFI-225,Pfizer India,Tamil Nadu,217,217,176
+2024-08-14,Pfizer,PFI-226,Pfizer India,Kerala,198,194,192
+2024-08-15,Pfizer,PFI-227,Pfizer India,Karnataka,209,236,203
+2024-08-16,Pfizer,PFI-228,Pfizer India,Kerala,172,199,195
+2024-08-17,Pfizer,PFI-229,Pfizer India,Karnataka,145,150,123
+2024-08-18,Pfizer,PFI-230,Pfizer India,Karnataka,144,166,146
+2024-08-19,Pfizer,PFI-231,Pfizer India,Karnataka,158,145,122
+2024-08-20,Pfizer,PFI-232,Pfizer India,Delhi,179,162,115
+2024-08-21,Pfizer,PFI-233,Pfizer India,Maharashtra,196,219,215
+2024-08-22,Pfizer,PFI-234,Pfizer India,Karnataka,180,189,181
+2024-08-23,Pfizer,PFI-235,Pfizer India,Maharashtra,171,162,161
+2024-08-24,Pfizer,PFI-236,Pfizer India,Delhi,164,186,153
+2024-08-25,Pfizer,PFI-237,Pfizer India,Tamil Nadu,170,195,153
+2024-08-26,Pfizer,PFI-238,Pfizer India,Maharashtra,176,181,166
+2024-08-27,Pfizer,PFI-239,Pfizer India,Karnataka,208,220,210
+2024-08-28,Pfizer,PFI-240,Pfizer India,Karnataka,228,217,185
+2024-08-29,Pfizer,PFI-241,Pfizer India,Maharashtra,218,241,214
+2024-08-30,Pfizer,PFI-242,Pfizer India,Delhi,209,192,192
+2024-08-31,Pfizer,PFI-243,Pfizer India,Tamil Nadu,200,211,195
+2024-09-01,Pfizer,PFI-244,Pfizer India,Tamil Nadu,224,237,222
+2024-09-02,Pfizer,PFI-245,Pfizer India,Tamil Nadu,212,221,189
+2024-09-03,Pfizer,PFI-246,Pfizer India,Karnataka,254,259,242
+2024-09-04,Pfizer,PFI-247,Pfizer India,Delhi,243,238,201
+2024-09-05,Pfizer,PFI-248,Pfizer India,Maharashtra,236,226,191
+2024-09-06,Pfizer,PFI-249,Pfizer India,Delhi,223,230,209
+2024-09-07,Pfizer,PFI-250,Pfizer India,Kerala,217,243,241
+2024-09-08,Pfizer,PFI-251,Pfizer India,Tamil Nadu,187,169,139
+2024-09-09,Pfizer,PFI-252,Pfizer India,Karnataka,215,196,166
+2024-09-10,Pfizer,PFI-253,Pfizer India,Karnataka,200,193,184
+2024-09-11,Pfizer,PFI-254,Pfizer India,Kerala,226,230,214
+2024-09-12,Pfizer,PFI-255,Pfizer India,Delhi,205,217,174
+2024-09-13,Pfizer,PFI-256,Pfizer India,Maharashtra,193,177,130
+2024-09-14,Pfizer,PFI-257,Pfizer India,Tamil Nadu,163,169,140
+2024-09-15,Pfizer,PFI-258,Pfizer India,Tamil Nadu,183,208,189
+2024-09-16,Pfizer,PFI-259,Pfizer India,Tamil Nadu,160,151,123
+2024-09-17,Pfizer,PFI-260,Pfizer India,Karnataka,174,185,173
+2024-09-18,Pfizer,PFI-261,Pfizer India,Kerala,196,197,158
+2024-09-19,Pfizer,PFI-262,Pfizer India,Tamil Nadu,185,187,167
+2024-09-20,Pfizer,PFI-263,Pfizer India,Delhi,172,187,150
+2024-09-21,Pfizer,PFI-264,Pfizer India,Karnataka,149,175,134
+2024-09-22,Pfizer,PFI-265,Pfizer India,Karnataka,170,184,139
+2024-09-23,Pfizer,PFI-266,Pfizer India,Tamil Nadu,181,205,185
+2024-09-24,Pfizer,PFI-267,Pfizer India,Karnataka,201,211,210
+2024-09-25,Pfizer,PFI-268,Pfizer India,Karnataka,193,220,203
+2024-09-26,Pfizer,PFI-269,Pfizer India,Kerala,204,204,200
+2024-09-27,Pfizer,PFI-270,Pfizer India,Kerala,191,194,191
+2024-09-28,Pfizer,PFI-271,Pfizer India,Maharashtra,201,204,163
+2024-09-29,Pfizer,PFI-272,Pfizer India,Karnataka,185,175,170
+2024-09-30,Pfizer,PFI-273,Pfizer India,Delhi,204,208,179
+2024-10-01,Pfizer,PFI-274,Pfizer India,Maharashtra,244,255,209
+2024-10-02,Pfizer,PFI-275,Pfizer India,Tamil Nadu,234,264,260
+2024-10-03,Pfizer,PFI-276,Pfizer India,Delhi,231,242,198
+2024-10-04,Pfizer,PFI-277,Pfizer India,Delhi,212,239,195
+2024-10-05,Pfizer,PFI-278,Pfizer India,Karnataka,202,232,227
+2024-10-06,Pfizer,PFI-279,Pfizer India,Delhi,196,183,182
+2024-10-07,Pfizer,PFI-280,Pfizer India,Tamil Nadu,202,228,206
+2024-10-08,Pfizer,PFI-281,Pfizer India,Kerala,247,246,209
+2024-10-09,Pfizer,PFI-282,Pfizer India,Kerala,249,255,206
+2024-10-10,Pfizer,PFI-283,Pfizer India,Maharashtra,220,214,171
+2024-10-11,Pfizer,PFI-284,Pfizer India,Kerala,203,230,220
+2024-10-12,Pfizer,PFI-285,Pfizer India,Kerala,197,217,178
+2024-10-13,Pfizer,PFI-286,Pfizer India,Tamil Nadu,167,191,190
+2024-10-14,Pfizer,PFI-287,Pfizer India,Maharashtra,185,173,170
+2024-10-15,Pfizer,PFI-288,Pfizer India,Maharashtra,197,216,170
+2024-10-16,Pfizer,PFI-289,Pfizer India,Tamil Nadu,209,206,163
+2024-10-17,Pfizer,PFI-290,Pfizer India,Delhi,198,220,206
+2024-10-18,Pfizer,PFI-291,Pfizer India,Delhi,139,151,106
+2024-10-19,Pfizer,PFI-292,Pfizer India,Karnataka,160,155,138
+2024-10-20,Pfizer,PFI-293,Pfizer India,Delhi,156,176,169
+2024-10-21,Pfizer,PFI-294,Pfizer India,Delhi,174,171,162
+2024-10-22,Pfizer,PFI-295,Pfizer India,Kerala,189,169,141
+2024-10-23,Pfizer,PFI-296,Pfizer India,Kerala,188,175,160
+2024-10-24,Pfizer,PFI-297,Pfizer India,Delhi,180,198,179
+2024-10-25,Pfizer,PFI-298,Pfizer India,Delhi,174,181,138
+2024-10-26,Pfizer,PFI-299,Pfizer India,Delhi,168,164,160
+2024-10-27,Pfizer,PFI-300,Pfizer India,Maharashtra,189,192,190
+2024-10-28,Pfizer,PFI-301,Pfizer India,Tamil Nadu,215,230,186
+2024-10-29,Pfizer,PFI-302,Pfizer India,Tamil Nadu,210,193,174
+2024-10-30,Pfizer,PFI-303,Pfizer India,Karnataka,237,217,209
+2024-10-31,Pfizer,PFI-304,Pfizer India,Maharashtra,237,262,235
+2024-11-01,Pfizer,PFI-305,Pfizer India,Karnataka,199,206,157
+2024-11-02,Pfizer,PFI-306,Pfizer India,Delhi,218,202,180
+2024-11-03,Pfizer,PFI-307,Pfizer India,Delhi,219,212,197
+2024-11-04,Pfizer,PFI-308,Pfizer India,Delhi,224,237,189
+2024-11-05,Pfizer,PFI-309,Pfizer India,Kerala,238,219,181
+2024-11-06,Pfizer,PFI-310,Pfizer India,Maharashtra,237,267,239
+2024-11-07,Pfizer,PFI-311,Pfizer India,Kerala,225,254,250
+2024-11-08,Pfizer,PFI-312,Pfizer India,Karnataka,210,202,162
+2024-11-09,Pfizer,PFI-313,Pfizer India,Tamil Nadu,192,184,150
+2024-11-10,Pfizer,PFI-314,Pfizer India,Delhi,188,184,175
+2024-11-11,Pfizer,PFI-315,Pfizer India,Maharashtra,211,212,204
+2024-11-12,Pfizer,PFI-316,Pfizer India,Maharashtra,208,234,187
+2024-11-13,Pfizer,PFI-317,Pfizer India,Maharashtra,205,232,200
+2024-11-14,Pfizer,PFI-318,Pfizer India,Maharashtra,204,233,225
+2024-11-15,Pfizer,PFI-319,Pfizer India,Tamil Nadu,161,155,147
+2024-11-16,Pfizer,PFI-320,Pfizer India,Tamil Nadu,139,165,139
+2024-11-17,Pfizer,PFI-321,Pfizer India,Maharashtra,167,175,135
+2024-11-18,Pfizer,PFI-322,Pfizer India,Delhi,178,184,147
+2024-11-19,Pfizer,PFI-323,Pfizer India,Kerala,189,182,134
+2024-11-20,Pfizer,PFI-324,Pfizer India,Kerala,196,185,151
+2024-11-21,Pfizer,PFI-325,Pfizer India,Tamil Nadu,191,203,155
+2024-11-22,Pfizer,PFI-326,Pfizer India,Kerala,164,169,168
+2024-11-23,Pfizer,PFI-327,Pfizer India,Delhi,158,180,140
+2024-11-24,Pfizer,PFI-328,Pfizer India,Maharashtra,152,142,115
+2024-11-25,Pfizer,PFI-329,Pfizer India,Kerala,203,231,230
+2024-11-26,Pfizer,PFI-330,Pfizer India,Tamil Nadu,225,246,229
+2024-11-27,Pfizer,PFI-331,Pfizer India,Maharashtra,225,238,199
+2024-11-28,Pfizer,PFI-332,Pfizer India,Tamil Nadu,227,242,211
+2024-11-29,Pfizer,PFI-333,Pfizer India,Tamil Nadu,213,196,170
+2024-11-30,Pfizer,PFI-334,Pfizer India,Delhi,226,206,196
+2024-12-01,Pfizer,PFI-335,Pfizer India,Maharashtra,224,252,217
+2024-12-02,Pfizer,PFI-336,Pfizer India,Maharashtra,240,239,220
+2024-12-03,Pfizer,PFI-337,Pfizer India,Tamil Nadu,266,257,249
+2024-12-04,Pfizer,PFI-338,Pfizer India,Tamil Nadu,246,262,252
+2024-12-05,Pfizer,PFI-339,Pfizer India,Maharashtra,256,286,254
+2024-12-06,Pfizer,PFI-340,Pfizer India,Tamil Nadu,214,204,181
+2024-12-07,Pfizer,PFI-341,Pfizer India,Tamil Nadu,202,197,174
+2024-12-08,Pfizer,PFI-342,Pfizer India,Maharashtra,211,202,184
+2024-12-09,Pfizer,PFI-343,Pfizer India,Tamil Nadu,226,243,211
+2024-12-10,Pfizer,PFI-344,Pfizer India,Karnataka,237,257,220
+2024-12-11,Pfizer,PFI-345,Pfizer India,Kerala,223,240,208
+2024-12-12,Pfizer,PFI-346,Pfizer India,Maharashtra,213,208,162
+2024-12-13,Pfizer,PFI-347,Pfizer India,Kerala,179,195,154
+2024-12-14,Pfizer,PFI-348,Pfizer India,Delhi,157,144,113
+2024-12-15,Pfizer,PFI-349,Pfizer India,Delhi,179,192,157
+2024-12-16,Pfizer,PFI-350,Pfizer India,Delhi,156,164,145
+2024-12-17,Pfizer,PFI-351,Pfizer India,Delhi,192,192,165
+2024-12-18,Pfizer,PFI-352,Pfizer India,Maharashtra,201,223,198
+2024-12-19,Pfizer,PFI-353,Pfizer India,Delhi,185,170,141
+2024-12-20,Pfizer,PFI-354,Pfizer India,Maharashtra,173,200,169
+2024-12-21,Pfizer,PFI-355,Pfizer India,Maharashtra,187,208,158
+2024-12-22,Pfizer,PFI-356,Pfizer India,Tamil Nadu,184,176,139
+2024-12-23,Pfizer,PFI-357,Pfizer India,Karnataka,197,226,192
+2024-12-24,Pfizer,PFI-358,Pfizer India,Kerala,207,217,179
+2024-12-25,Pfizer,PFI-359,Pfizer India,Delhi,216,237,216
+2024-12-26,Pfizer,PFI-360,Pfizer India,Delhi,202,211,208
+2024-12-27,Pfizer,PFI-361,Pfizer India,Delhi,206,193,145
+2024-12-28,Pfizer,PFI-362,Pfizer India,Tamil Nadu,200,209,183
+2024-12-29,Pfizer,PFI-363,Pfizer India,Kerala,224,254,219
+2024-12-30,Pfizer,PFI-364,Pfizer India,Delhi,219,215,190
+2024-01-01,Moderna,MOD-000,Moderna India,Delhi,183,185,136
+2024-01-02,Moderna,MOD-001,Moderna India,Tamil Nadu,224,250,223
+2024-01-03,Moderna,MOD-002,Moderna India,Kerala,225,231,231
+2024-01-04,Moderna,MOD-003,Moderna India,Maharashtra,217,199,176
+2024-01-05,Moderna,MOD-004,Moderna India,Karnataka,215,199,159
+2024-01-06,Moderna,MOD-005,Moderna India,Maharashtra,201,198,195
+2024-01-07,Moderna,MOD-006,Moderna India,Maharashtra,205,195,160
+2024-01-08,Moderna,MOD-007,Moderna India,Karnataka,220,219,212
+2024-01-09,Moderna,MOD-008,Moderna India,Kerala,248,235,189
+2024-01-10,Moderna,MOD-009,Moderna India,Kerala,259,257,220
+2024-01-11,Moderna,MOD-010,Moderna India,Delhi,222,242,213
+2024-01-12,Moderna,MOD-011,Moderna India,Maharashtra,230,239,224
+2024-01-13,Moderna,MOD-012,Moderna India,Kerala,188,193,160
+2024-01-14,Moderna,MOD-013,Moderna India,Delhi,201,215,180
+2024-01-15,Moderna,MOD-014,Moderna India,Tamil Nadu,206,213,176
+2024-01-16,Moderna,MOD-015,Moderna India,Tamil Nadu,212,222,175
+2024-01-17,Moderna,MOD-016,Moderna India,Delhi,230,238,197
+2024-01-18,Moderna,MOD-017,Moderna India,Kerala,194,222,191
+2024-01-19,Moderna,MOD-018,Moderna India,Tamil Nadu,169,155,136
+2024-01-20,Moderna,MOD-019,Moderna India,Karnataka,171,188,162
+2024-01-21,Moderna,MOD-020,Moderna India,Delhi,167,178,166
+2024-01-22,Moderna,MOD-021,Moderna India,Maharashtra,171,193,175
+2024-01-23,Moderna,MOD-022,Moderna India,Kerala,186,214,208
+2024-01-24,Moderna,MOD-023,Moderna India,Tamil Nadu,200,202,197
+2024-01-25,Moderna,MOD-024,Moderna India,Tamil Nadu,176,176,174
+2024-01-26,Moderna,MOD-025,Moderna India,Maharashtra,158,149,148
+2024-01-27,Moderna,MOD-026,Moderna India,Kerala,156,162,118
+2024-01-28,Moderna,MOD-027,Moderna India,Tamil Nadu,176,197,185
+2024-01-29,Moderna,MOD-028,Moderna India,Maharashtra,177,163,118
+2024-01-30,Moderna,MOD-029,Moderna India,Maharashtra,210,211,179
+2024-01-31,Moderna,MOD-030,Moderna India,Maharashtra,214,234,209
+2024-02-01,Moderna,MOD-031,Moderna India,Karnataka,221,207,160
+2024-02-02,Moderna,MOD-032,Moderna India,Karnataka,178,205,192
+2024-02-03,Moderna,MOD-033,Moderna India,Maharashtra,195,224,194
+2024-02-04,Moderna,MOD-034,Moderna India,Maharashtra,214,232,200
+2024-02-05,Moderna,MOD-035,Moderna India,Karnataka,231,221,220
+2024-02-06,Moderna,MOD-036,Moderna India,Delhi,235,246,236
+2024-02-07,Moderna,MOD-037,Moderna India,Delhi,261,261,256
+2024-02-08,Moderna,MOD-038,Moderna India,Tamil Nadu,246,241,209
+2024-02-09,Moderna,MOD-039,Moderna India,Maharashtra,225,241,222
+2024-02-10,Moderna,MOD-040,Moderna India,Tamil Nadu,204,194,163
+2024-02-11,Moderna,MOD-041,Moderna India,Tamil Nadu,204,203,201
+2024-02-12,Moderna,MOD-042,Moderna India,Kerala,230,249,219
+2024-02-13,Moderna,MOD-043,Moderna India,Maharashtra,238,246,199
+2024-02-14,Moderna,MOD-044,Moderna India,Delhi,220,206,206
+2024-02-15,Moderna,MOD-045,Moderna India,Kerala,207,234,187
+2024-02-16,Moderna,MOD-046,Moderna India,Maharashtra,170,170,130
+2024-02-17,Moderna,MOD-047,Moderna India,Delhi,150,146,143
+2024-02-18,Moderna,MOD-048,Moderna India,Kerala,167,167,129
+2024-02-19,Moderna,MOD-049,Moderna India,Tamil Nadu,173,195,191
+2024-02-20,Moderna,MOD-050,Moderna India,Kerala,209,196,161
+2024-02-21,Moderna,MOD-051,Moderna India,Tamil Nadu,183,168,167
+2024-02-22,Moderna,MOD-052,Moderna India,Karnataka,183,176,139
+2024-02-23,Moderna,MOD-053,Moderna India,Tamil Nadu,172,198,190
+2024-02-24,Moderna,MOD-054,Moderna India,Kerala,143,166,144
+2024-02-25,Moderna,MOD-055,Moderna India,Delhi,155,177,148
+2024-02-26,Moderna,MOD-056,Moderna India,Kerala,177,193,175
+2024-02-27,Moderna,MOD-057,Moderna India,Maharashtra,197,225,219
+2024-02-28,Moderna,MOD-058,Moderna India,Delhi,216,210,209
+2024-02-29,Moderna,MOD-059,Moderna India,Delhi,202,182,139
+2024-03-01,Moderna,MOD-060,Moderna India,Tamil Nadu,202,198,176
+2024-03-02,Moderna,MOD-061,Moderna India,Kerala,210,198,189
+2024-03-03,Moderna,MOD-062,Moderna India,Karnataka,200,207,197
+2024-03-04,Moderna,MOD-063,Moderna India,Karnataka,227,246,199
+2024-03-05,Moderna,MOD-064,Moderna India,Tamil Nadu,244,253,247
+2024-03-06,Moderna,MOD-065,Moderna India,Tamil Nadu,238,239,213
+2024-03-07,Moderna,MOD-066,Moderna India,Karnataka,235,248,214
+2024-03-08,Moderna,MOD-067,Moderna India,Maharashtra,212,207,158
+2024-03-09,Moderna,MOD-068,Moderna India,Karnataka,217,206,190
+2024-03-10,Moderna,MOD-069,Moderna India,Maharashtra,215,197,176
+2024-03-11,Moderna,MOD-070,Moderna India,Kerala,216,232,191
+2024-03-12,Moderna,MOD-071,Moderna India,Delhi,240,249,240
+2024-03-13,Moderna,MOD-072,Moderna India,Tamil Nadu,242,255,210
+2024-03-14,Moderna,MOD-073,Moderna India,Tamil Nadu,214,241,228
+2024-03-15,Moderna,MOD-074,Moderna India,Karnataka,193,201,188
+2024-03-16,Moderna,MOD-075,Moderna India,Karnataka,184,176,131
+2024-03-17,Moderna,MOD-076,Moderna India,Maharashtra,181,182,145
+2024-03-18,Moderna,MOD-077,Moderna India,Maharashtra,179,186,143
+2024-03-19,Moderna,MOD-078,Moderna India,Karnataka,206,234,223
+2024-03-20,Moderna,MOD-079,Moderna India,Kerala,197,182,134
+2024-03-21,Moderna,MOD-080,Moderna India,Kerala,186,208,172
+2024-03-22,Moderna,MOD-081,Moderna India,Tamil Nadu,171,164,163
+2024-03-23,Moderna,MOD-082,Moderna India,Delhi,156,174,128
+2024-03-24,Moderna,MOD-083,Moderna India,Karnataka,159,178,137
+2024-03-25,Moderna,MOD-084,Moderna India,Delhi,179,174,153
+2024-03-26,Moderna,MOD-085,Moderna India,Delhi,194,205,191
+2024-03-27,Moderna,MOD-086,Moderna India,Tamil Nadu,200,224,219
+2024-03-28,Moderna,MOD-087,Moderna India,Delhi,213,204,185
+2024-03-29,Moderna,MOD-088,Moderna India,Tamil Nadu,170,155,146
+2024-03-30,Moderna,MOD-089,Moderna India,Tamil Nadu,198,210,199
+2024-03-31,Moderna,MOD-090,Moderna India,Tamil Nadu,193,185,179
+2024-04-01,Moderna,MOD-091,Moderna India,Tamil Nadu,234,221,180
+2024-04-02,Moderna,MOD-092,Moderna India,Tamil Nadu,213,239,223
+2024-04-03,Moderna,MOD-093,Moderna India,Tamil Nadu,247,267,235
+2024-04-04,Moderna,MOD-094,Moderna India,Maharashtra,241,237,223
+2024-04-05,Moderna,MOD-095,Moderna India,Tamil Nadu,235,262,224
+2024-04-06,Moderna,MOD-096,Moderna India,Kerala,215,244,226
+2024-04-07,Moderna,MOD-097,Moderna India,Maharashtra,221,211,206
+2024-04-08,Moderna,MOD-098,Moderna India,Tamil Nadu,258,283,273
+2024-04-09,Moderna,MOD-099,Moderna India,Delhi,240,228,187
+2024-04-10,Moderna,MOD-100,Moderna India,Kerala,275,260,210
+2024-04-11,Moderna,MOD-101,Moderna India,Kerala,224,220,183
+2024-04-12,Moderna,MOD-102,Moderna India,Maharashtra,208,207,168
+2024-04-13,Moderna,MOD-103,Moderna India,Karnataka,202,230,203
+2024-04-14,Moderna,MOD-104,Moderna India,Maharashtra,190,207,195
+2024-04-15,Moderna,MOD-105,Moderna India,Maharashtra,190,194,155
+2024-04-16,Moderna,MOD-106,Moderna India,Delhi,218,248,238
+2024-04-17,Moderna,MOD-107,Moderna India,Karnataka,224,212,204
+2024-04-18,Moderna,MOD-108,Moderna India,Maharashtra,203,198,178
+2024-04-19,Moderna,MOD-109,Moderna India,Delhi,192,207,166
+2024-04-20,Moderna,MOD-110,Moderna India,Maharashtra,164,186,157
+2024-04-21,Moderna,MOD-111,Moderna India,Kerala,185,214,191
+2024-04-22,Moderna,MOD-112,Moderna India,Delhi,181,180,160
+2024-04-23,Moderna,MOD-113,Moderna India,Tamil Nadu,193,221,182
+2024-04-24,Moderna,MOD-114,Moderna India,Maharashtra,205,204,203
+2024-04-25,Moderna,MOD-115,Moderna India,Karnataka,190,218,202
+2024-04-26,Moderna,MOD-116,Moderna India,Delhi,160,175,167
+2024-04-27,Moderna,MOD-117,Moderna India,Kerala,185,213,169
+2024-04-28,Moderna,MOD-118,Moderna India,Maharashtra,188,215,169
+2024-04-29,Moderna,MOD-119,Moderna India,Kerala,199,208,188
+2024-04-30,Moderna,MOD-120,Moderna India,Maharashtra,209,189,152
+2024-05-01,Moderna,MOD-121,Moderna India,Maharashtra,214,230,216
+2024-05-02,Moderna,MOD-122,Moderna India,Kerala,240,228,186
+2024-05-03,Moderna,MOD-123,Moderna India,Maharashtra,200,188,185
+2024-05-04,Moderna,MOD-124,Moderna India,Karnataka,230,225,177
+2024-05-05,Moderna,MOD-125,Moderna India,Delhi,218,214,210
+2024-05-06,Moderna,MOD-126,Moderna India,Kerala,261,290,250
+2024-05-07,Moderna,MOD-127,Moderna India,Delhi,270,285,246
+2024-05-08,Moderna,MOD-128,Moderna India,Maharashtra,255,239,215
+2024-05-09,Moderna,MOD-129,Moderna India,Tamil Nadu,245,249,249
+2024-05-10,Moderna,MOD-130,Moderna India,Delhi,211,240,207
+2024-05-11,Moderna,MOD-131,Moderna India,Karnataka,214,236,235
+2024-05-12,Moderna,MOD-132,Moderna India,Kerala,224,234,185
+2024-05-13,Moderna,MOD-133,Moderna India,Karnataka,224,220,172
+2024-05-14,Moderna,MOD-134,Moderna India,Maharashtra,223,208,159
+2024-05-15,Moderna,MOD-135,Moderna India,Kerala,229,253,207
+2024-05-16,Moderna,MOD-136,Moderna India,Delhi,202,204,174
+2024-05-17,Moderna,MOD-137,Moderna India,Delhi,199,227,210
+2024-05-18,Moderna,MOD-138,Moderna India,Delhi,151,177,131
+2024-05-19,Moderna,MOD-139,Moderna India,Tamil Nadu,193,218,210
+2024-05-20,Moderna,MOD-140,Moderna India,Karnataka,195,222,183
+2024-05-21,Moderna,MOD-141,Moderna India,Kerala,207,201,183
+2024-05-22,Moderna,MOD-142,Moderna India,Delhi,194,195,161
+2024-05-23,Moderna,MOD-143,Moderna India,Delhi,185,201,159
+2024-05-24,Moderna,MOD-144,Moderna India,Kerala,176,184,152
+2024-05-25,Moderna,MOD-145,Moderna India,Tamil Nadu,196,187,166
+2024-05-26,Moderna,MOD-146,Moderna India,Tamil Nadu,168,177,143
+2024-05-27,Moderna,MOD-147,Moderna India,Delhi,204,196,147
+2024-05-28,Moderna,MOD-148,Moderna India,Maharashtra,215,204,189
+2024-05-29,Moderna,MOD-149,Moderna India,Karnataka,226,216,202
+2024-05-30,Moderna,MOD-150,Moderna India,Kerala,219,213,181
+2024-05-31,Moderna,MOD-151,Moderna India,Tamil Nadu,226,246,241
+2024-06-01,Moderna,MOD-152,Moderna India,Maharashtra,218,217,182
+2024-06-02,Moderna,MOD-153,Moderna India,Karnataka,222,242,216
+2024-06-03,Moderna,MOD-154,Moderna India,Maharashtra,245,262,246
+2024-06-04,Moderna,MOD-155,Moderna India,Tamil Nadu,263,267,224
+2024-06-05,Moderna,MOD-156,Moderna India,Delhi,271,251,215
+2024-06-06,Moderna,MOD-157,Moderna India,Kerala,252,282,271
+2024-06-07,Moderna,MOD-158,Moderna India,Karnataka,249,237,230
+2024-06-08,Moderna,MOD-159,Moderna India,Karnataka,211,202,158
+2024-06-09,Moderna,MOD-160,Moderna India,Kerala,207,235,228
+2024-06-10,Moderna,MOD-161,Moderna India,Kerala,240,251,244
+2024-06-11,Moderna,MOD-162,Moderna India,Kerala,257,253,250
+2024-06-12,Moderna,MOD-163,Moderna India,Kerala,225,229,209
+2024-06-13,Moderna,MOD-164,Moderna India,Kerala,229,219,206
+2024-06-14,Moderna,MOD-165,Moderna India,Maharashtra,208,230,195
+2024-06-15,Moderna,MOD-166,Moderna India,Maharashtra,192,173,166
+2024-06-16,Moderna,MOD-167,Moderna India,Tamil Nadu,196,209,194
+2024-06-17,Moderna,MOD-168,Moderna India,Tamil Nadu,189,186,147
+2024-06-18,Moderna,MOD-169,Moderna India,Kerala,211,219,209
+2024-06-19,Moderna,MOD-170,Moderna India,Delhi,212,200,175
+2024-06-20,Moderna,MOD-171,Moderna India,Maharashtra,192,189,178
+2024-06-21,Moderna,MOD-172,Moderna India,Kerala,155,140,113
+2024-06-22,Moderna,MOD-173,Moderna India,Kerala,160,151,110
+2024-06-23,Moderna,MOD-174,Moderna India,Delhi,161,166,156
+2024-06-24,Moderna,MOD-175,Moderna India,Delhi,192,210,181
+2024-06-25,Moderna,MOD-176,Moderna India,Delhi,213,195,177
+2024-06-26,Moderna,MOD-177,Moderna India,Maharashtra,214,227,177
+2024-06-27,Moderna,MOD-178,Moderna India,Delhi,190,190,169
+2024-06-28,Moderna,MOD-179,Moderna India,Maharashtra,215,239,217
+2024-06-29,Moderna,MOD-180,Moderna India,Delhi,198,212,202
+2024-06-30,Moderna,MOD-181,Moderna India,Tamil Nadu,224,226,223
+2024-07-01,Moderna,MOD-182,Moderna India,Delhi,222,231,210
+2024-07-02,Moderna,MOD-183,Moderna India,Delhi,260,247,211
+2024-07-03,Moderna,MOD-184,Moderna India,Maharashtra,251,273,251
+2024-07-04,Moderna,MOD-185,Moderna India,Karnataka,265,250,236
+2024-07-05,Moderna,MOD-186,Moderna India,Tamil Nadu,249,230,208
+2024-07-06,Moderna,MOD-187,Moderna India,Tamil Nadu,228,258,232
+2024-07-07,Moderna,MOD-188,Moderna India,Tamil Nadu,229,231,189
+2024-07-08,Moderna,MOD-189,Moderna India,Kerala,254,279,277
+2024-07-09,Moderna,MOD-190,Moderna India,Karnataka,259,252,223
+2024-07-10,Moderna,MOD-191,Moderna India,Maharashtra,267,253,210
+2024-07-11,Moderna,MOD-192,Moderna India,Maharashtra,247,245,229
+2024-07-12,Moderna,MOD-193,Moderna India,Delhi,225,207,163
+2024-07-13,Moderna,MOD-194,Moderna India,Kerala,195,221,213
+2024-07-14,Moderna,MOD-195,Moderna India,Karnataka,198,221,188
+2024-07-15,Moderna,MOD-196,Moderna India,Tamil Nadu,221,251,224
+2024-07-16,Moderna,MOD-197,Moderna India,Kerala,233,259,237
+2024-07-17,Moderna,MOD-198,Moderna India,Kerala,233,252,213
+2024-07-18,Moderna,MOD-199,Moderna India,Tamil Nadu,225,234,209
+2024-07-19,Moderna,MOD-200,Moderna India,Kerala,185,176,173
+2024-07-20,Moderna,MOD-201,Moderna India,Delhi,156,159,139
+2024-07-21,Moderna,MOD-202,Moderna India,Kerala,180,198,184
+2024-07-22,Moderna,MOD-203,Moderna India,Tamil Nadu,187,168,130
+2024-07-23,Moderna,MOD-204,Moderna India,Delhi,209,210,170
+2024-07-24,Moderna,MOD-205,Moderna India,Delhi,215,232,226
+2024-07-25,Moderna,MOD-206,Moderna India,Karnataka,191,212,180
+2024-07-26,Moderna,MOD-207,Moderna India,Delhi,203,205,163
+2024-07-27,Moderna,MOD-208,Moderna India,Karnataka,200,194,158
+2024-07-28,Moderna,MOD-209,Moderna India,Karnataka,190,180,167
+2024-07-29,Moderna,MOD-210,Moderna India,Kerala,235,245,216
+2024-07-30,Moderna,MOD-211,Moderna India,Tamil Nadu,229,236,223
+2024-07-31,Moderna,MOD-212,Moderna India,Maharashtra,265,245,245
+2024-08-01,Moderna,MOD-213,Moderna India,Delhi,248,267,235
+2024-08-02,Moderna,MOD-214,Moderna India,Kerala,244,250,220
+2024-08-03,Moderna,MOD-215,Moderna India,Maharashtra,224,245,242
+2024-08-04,Moderna,MOD-216,Moderna India,Tamil Nadu,238,240,240
+2024-08-05,Moderna,MOD-217,Moderna India,Karnataka,270,267,267
+2024-08-06,Moderna,MOD-218,Moderna India,Maharashtra,249,267,246
+2024-08-07,Moderna,MOD-219,Moderna India,Tamil Nadu,270,267,263
+2024-08-08,Moderna,MOD-220,Moderna India,Karnataka,251,266,251
+2024-08-09,Moderna,MOD-221,Moderna India,Tamil Nadu,236,255,231
+2024-08-10,Moderna,MOD-222,Moderna India,Maharashtra,216,220,196
+2024-08-11,Moderna,MOD-223,Moderna India,Delhi,230,215,196
+2024-08-12,Moderna,MOD-224,Moderna India,Kerala,219,227,190
+2024-08-13,Moderna,MOD-225,Moderna India,Maharashtra,205,213,165
+2024-08-14,Moderna,MOD-226,Moderna India,Tamil Nadu,225,252,251
+2024-08-15,Moderna,MOD-227,Moderna India,Kerala,236,224,180
+2024-08-16,Moderna,MOD-228,Moderna India,Karnataka,184,177,154
+2024-08-17,Moderna,MOD-229,Moderna India,Karnataka,180,160,121
+2024-08-18,Moderna,MOD-230,Moderna India,Tamil Nadu,176,179,140
+2024-08-19,Moderna,MOD-231,Moderna India,Tamil Nadu,190,203,176
+2024-08-20,Moderna,MOD-232,Moderna India,Kerala,211,230,190
+2024-08-21,Moderna,MOD-233,Moderna India,Karnataka,228,252,244
+2024-08-22,Moderna,MOD-234,Moderna India,Maharashtra,196,197,168
+2024-08-23,Moderna,MOD-235,Moderna India,Kerala,201,207,164
+2024-08-24,Moderna,MOD-236,Moderna India,Kerala,175,203,162
+2024-08-25,Moderna,MOD-237,Moderna India,Tamil Nadu,184,204,175
+2024-08-26,Moderna,MOD-238,Moderna India,Kerala,206,213,182
+2024-08-27,Moderna,MOD-239,Moderna India,Delhi,236,244,219
+2024-08-28,Moderna,MOD-240,Moderna India,Kerala,230,223,190
+2024-08-29,Moderna,MOD-241,Moderna India,Kerala,228,247,219
+2024-08-30,Moderna,MOD-242,Moderna India,Delhi,236,253,233
+2024-08-31,Moderna,MOD-243,Moderna India,Kerala,238,244,222
+2024-09-01,Moderna,MOD-244,Moderna India,Kerala,229,239,209
+2024-09-02,Moderna,MOD-245,Moderna India,Delhi,260,275,244
+2024-09-03,Moderna,MOD-246,Moderna India,Kerala,280,280,256
+2024-09-04,Moderna,MOD-247,Moderna India,Karnataka,271,267,250
+2024-09-05,Moderna,MOD-248,Moderna India,Tamil Nadu,253,233,199
+2024-09-06,Moderna,MOD-249,Moderna India,Delhi,245,261,222
+2024-09-07,Moderna,MOD-250,Moderna India,Kerala,230,246,212
+2024-09-08,Moderna,MOD-251,Moderna India,Kerala,251,278,237
+2024-09-09,Moderna,MOD-252,Moderna India,Maharashtra,224,224,220
+2024-09-10,Moderna,MOD-253,Moderna India,Maharashtra,235,260,219
+2024-09-11,Moderna,MOD-254,Moderna India,Delhi,255,255,220
+2024-09-12,Moderna,MOD-255,Moderna India,Delhi,236,224,195
+2024-09-13,Moderna,MOD-256,Moderna India,Karnataka,210,223,205
+2024-09-14,Moderna,MOD-257,Moderna India,Maharashtra,206,214,198
+2024-09-15,Moderna,MOD-258,Moderna India,Maharashtra,187,189,147
+2024-09-16,Moderna,MOD-259,Moderna India,Tamil Nadu,191,210,175
+2024-09-17,Moderna,MOD-260,Moderna India,Delhi,209,208,187
+2024-09-18,Moderna,MOD-261,Moderna India,Maharashtra,214,217,211
+2024-09-19,Moderna,MOD-262,Moderna India,Delhi,207,226,209
+2024-09-20,Moderna,MOD-263,Moderna India,Delhi,195,202,196
+2024-09-21,Moderna,MOD-264,Moderna India,Tamil Nadu,168,176,173
+2024-09-22,Moderna,MOD-265,Moderna India,Tamil Nadu,182,198,190
+2024-09-23,Moderna,MOD-266,Moderna India,Karnataka,201,203,175
+2024-09-24,Moderna,MOD-267,Moderna India,Tamil Nadu,233,236,216
+2024-09-25,Moderna,MOD-268,Moderna India,Tamil Nadu,255,236,227
+2024-09-26,Moderna,MOD-269,Moderna India,Tamil Nadu,247,262,221
+2024-09-27,Moderna,MOD-270,Moderna India,Karnataka,207,209,165
+2024-09-28,Moderna,MOD-271,Moderna India,Delhi,229,245,240
+2024-09-29,Moderna,MOD-272,Moderna India,Tamil Nadu,215,238,226
+2024-09-30,Moderna,MOD-273,Moderna India,Maharashtra,223,213,187
+2024-10-01,Moderna,MOD-274,Moderna India,Karnataka,276,274,270
+2024-10-02,Moderna,MOD-275,Moderna India,Kerala,276,282,235
+2024-10-03,Moderna,MOD-276,Moderna India,Karnataka,260,284,254
+2024-10-04,Moderna,MOD-277,Moderna India,Tamil Nadu,258,241,213
+2024-10-05,Moderna,MOD-278,Moderna India,Karnataka,237,220,191
+2024-10-06,Moderna,MOD-279,Moderna India,Kerala,259,245,241
+2024-10-07,Moderna,MOD-280,Moderna India,Karnataka,245,272,238
+2024-10-08,Moderna,MOD-281,Moderna India,Kerala,264,266,234
+2024-10-09,Moderna,MOD-282,Moderna India,Tamil Nadu,262,268,265
+2024-10-10,Moderna,MOD-283,Moderna India,Maharashtra,257,258,208
+2024-10-11,Moderna,MOD-284,Moderna India,Delhi,221,238,188
+2024-10-12,Moderna,MOD-285,Moderna India,Maharashtra,227,240,219
+2024-10-13,Moderna,MOD-286,Moderna India,Maharashtra,212,237,232
+2024-10-14,Moderna,MOD-287,Moderna India,Karnataka,228,249,241
+2024-10-15,Moderna,MOD-288,Moderna India,Kerala,232,238,203
+2024-10-16,Moderna,MOD-289,Moderna India,Maharashtra,212,209,189
+2024-10-17,Moderna,MOD-290,Moderna India,Tamil Nadu,202,221,208
+2024-10-18,Moderna,MOD-291,Moderna India,Karnataka,192,212,176
+2024-10-19,Moderna,MOD-292,Moderna India,Delhi,185,208,198
+2024-10-20,Moderna,MOD-293,Moderna India,Karnataka,188,187,137
+2024-10-21,Moderna,MOD-294,Moderna India,Delhi,198,191,160
+2024-10-22,Moderna,MOD-295,Moderna India,Kerala,229,244,237
+2024-10-23,Moderna,MOD-296,Moderna India,Tamil Nadu,237,250,207
+2024-10-24,Moderna,MOD-297,Moderna India,Tamil Nadu,223,229,211
+2024-10-25,Moderna,MOD-298,Moderna India,Delhi,199,219,209
+2024-10-26,Moderna,MOD-299,Moderna India,Karnataka,219,237,189
+2024-10-27,Moderna,MOD-300,Moderna India,Tamil Nadu,207,229,181
+2024-10-28,Moderna,MOD-301,Moderna India,Kerala,241,222,181
+2024-10-29,Moderna,MOD-302,Moderna India,Maharashtra,245,236,231
+2024-10-30,Moderna,MOD-303,Moderna India,Maharashtra,272,266,250
+2024-10-31,Moderna,MOD-304,Moderna India,Maharashtra,258,250,230
+2024-11-01,Moderna,MOD-305,Moderna India,Karnataka,244,236,216
+2024-11-02,Moderna,MOD-306,Moderna India,Delhi,256,248,215
+2024-11-03,Moderna,MOD-307,Moderna India,Kerala,246,237,195
+2024-11-04,Moderna,MOD-308,Moderna India,Tamil Nadu,243,249,203
+2024-11-05,Moderna,MOD-309,Moderna India,Maharashtra,288,317,277
+2024-11-06,Moderna,MOD-310,Moderna India,Maharashtra,275,282,265
+2024-11-07,Moderna,MOD-311,Moderna India,Karnataka,269,280,267
+2024-11-08,Moderna,MOD-312,Moderna India,Karnataka,236,259,236
+2024-11-09,Moderna,MOD-313,Moderna India,Tamil Nadu,243,259,254
+2024-11-10,Moderna,MOD-314,Moderna India,Tamil Nadu,209,228,218
+2024-11-11,Moderna,MOD-315,Moderna India,Delhi,207,197,178
+2024-11-12,Moderna,MOD-316,Moderna India,Maharashtra,222,211,175
+2024-11-13,Moderna,MOD-317,Moderna India,Delhi,222,241,195
+2024-11-14,Moderna,MOD-318,Moderna India,Maharashtra,219,235,191
+2024-11-15,Moderna,MOD-319,Moderna India,Delhi,212,219,217
+2024-11-16,Moderna,MOD-320,Moderna India,Delhi,182,198,166
+2024-11-17,Moderna,MOD-321,Moderna India,Maharashtra,170,198,151
+2024-11-18,Moderna,MOD-322,Moderna India,Karnataka,193,184,158
+2024-11-19,Moderna,MOD-323,Moderna India,Tamil Nadu,207,221,221
+2024-11-20,Moderna,MOD-324,Moderna India,Karnataka,227,253,234
+2024-11-21,Moderna,MOD-325,Moderna India,Tamil Nadu,212,238,233
+2024-11-22,Moderna,MOD-326,Moderna India,Karnataka,202,199,164
+2024-11-23,Moderna,MOD-327,Moderna India,Maharashtra,196,198,167
+2024-11-24,Moderna,MOD-328,Moderna India,Tamil Nadu,196,207,158
+2024-11-25,Moderna,MOD-329,Moderna India,Tamil Nadu,231,254,209
+2024-11-26,Moderna,MOD-330,Moderna India,Karnataka,245,226,216
+2024-11-27,Moderna,MOD-331,Moderna India,Maharashtra,265,251,221
+2024-11-28,Moderna,MOD-332,Moderna India,Maharashtra,269,295,264
+2024-11-29,Moderna,MOD-333,Moderna India,Maharashtra,250,257,245
+2024-11-30,Moderna,MOD-334,Moderna India,Delhi,229,250,231
+2024-12-01,Moderna,MOD-335,Moderna India,Karnataka,256,245,229
+2024-12-02,Moderna,MOD-336,Moderna India,Tamil Nadu,268,270,248
+2024-12-03,Moderna,MOD-337,Moderna India,Maharashtra,286,274,272
+2024-12-04,Moderna,MOD-338,Moderna India,Karnataka,270,273,236
+2024-12-05,Moderna,MOD-339,Moderna India,Karnataka,277,302,274
+2024-12-06,Moderna,MOD-340,Moderna India,Kerala,235,232,217
+2024-12-07,Moderna,MOD-341,Moderna India,Maharashtra,233,256,219
+2024-12-08,Moderna,MOD-342,Moderna India,Delhi,237,266,230
+2024-12-09,Moderna,MOD-343,Moderna India,Maharashtra,260,243,201
+2024-12-10,Moderna,MOD-344,Moderna India,Maharashtra,258,254,249
+2024-12-11,Moderna,MOD-345,Moderna India,Tamil Nadu,236,235,220
+2024-12-12,Moderna,MOD-346,Moderna India,Maharashtra,220,200,160
+2024-12-13,Moderna,MOD-347,Moderna India,Karnataka,205,207,159
+2024-12-14,Moderna,MOD-348,Moderna India,Kerala,200,191,191
+2024-12-15,Moderna,MOD-349,Moderna India,Kerala,209,202,197
+2024-12-16,Moderna,MOD-350,Moderna India,Karnataka,208,189,153
+2024-12-17,Moderna,MOD-351,Moderna India,Karnataka,212,228,185
+2024-12-18,Moderna,MOD-352,Moderna India,Maharashtra,224,213,191
+2024-12-19,Moderna,MOD-353,Moderna India,Tamil Nadu,210,222,222
+2024-12-20,Moderna,MOD-354,Moderna India,Tamil Nadu,181,195,194
+2024-12-21,Moderna,MOD-355,Moderna India,Maharashtra,189,186,169
+2024-12-22,Moderna,MOD-356,Moderna India,Kerala,189,219,191
+2024-12-23,Moderna,MOD-357,Moderna India,Delhi,219,243,201
+2024-12-24,Moderna,MOD-358,Moderna India,Delhi,240,241,219
+2024-12-25,Moderna,MOD-359,Moderna India,Tamil Nadu,238,241,240
+2024-12-26,Moderna,MOD-360,Moderna India,Karnataka,220,236,188
+2024-12-27,Moderna,MOD-361,Moderna India,Tamil Nadu,245,256,250
+2024-12-28,Moderna,MOD-362,Moderna India,Maharashtra,225,238,190
+2024-12-29,Moderna,MOD-363,Moderna India,Tamil Nadu,241,230,228
+2024-12-30,Moderna,MOD-364,Moderna India,Karnataka,255,280,257
