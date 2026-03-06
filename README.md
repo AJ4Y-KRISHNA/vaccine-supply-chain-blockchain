@@ -35,3 +35,29 @@ Hardhat Blockchain Network
 ## How to Run
 
 Start blockchain:
+npx hardhat node
+
+
+Deploy contract:
+
+
+npx hardhat run scripts/deploy.js --network localhost
+
+
+Run web app:
+
+
+streamlit run app.py
+
+
+🔟 Verify Upload
+
+Open your repository and confirm these folders exist:
+
+app.py
+pages/
+styles/
+blockchain-backend/
+ethereum_connector.py
+sentiment_module.py
+forecasting.py
